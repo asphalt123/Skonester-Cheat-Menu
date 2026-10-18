@@ -1,0 +1,104 @@
+﻿l_french:
+ # Interaction Cheats
+ 
+ open_bone_cheat_interactions:0 "Ouvrir les triches"
+ close_bone_cheat_interactions:0 "Fermer les triches"
+ bone_cheat_interactions_desc:0 "Interactions de triche Skonester"
+
+ open_bone_trait_interactions:0 "Ouvrir les traits"
+ close_bone_trait_interactions:0 "Fermer les traits"
+ bone_trait_interactions_desc:0 "Interactions de traits Skonester"
+ 
+ bone_add_to_court:0 "Ajouter à la cour"
+ bone_add_to_court_desc:0 "Ajouter le personnage à la cour"
+ 
+ add_trait_super_01_interaction:0 "Ajouter Super niv. 1"
+ add_trait_super_01_interaction_desc:0 "Ajouter le trait Super niveau 1 au personnage ciblé"
+ remove_trait_super_01_interaction:0 "Retirer Super niv. 1"
+ remove_trait_super_01_interaction_desc:0 "Retirer le trait Super niveau 1 du personnage ciblé"
+
+ add_trait_super_02_interaction:0 "Ajouter Super niv. 2"
+ add_trait_super_02_interaction_desc:0 "Ajouter le trait Super niveau 2 au personnage ciblé"
+ remove_trait_super_02_interaction:0 "Retirer Super niv. 2"
+ remove_trait_super_02_interaction_desc:0 "Retirer le trait Super niveau 2 du personnage ciblé"
+
+ add_trait_super_03_interaction:0 "Ajouter Super niv. 3"
+ add_trait_super_03_interaction_desc:0 "Ajouter le trait Super niveau 3 au personnage ciblé"
+ remove_trait_super_03_interaction:0 "Retirer Super niv. 3"
+ remove_trait_super_03_interaction_desc:0 "Retirer le trait Super niveau 3 du personnage ciblé"
+ 
+ add_trait_super_governor_01_interaction:0 "Ajouter Super Gouverneur niv. 1"
+ add_trait_super_governor_01_interaction_desc:0 "Ajouter le trait Super Gouverneur niveau 1 au personnage ciblé"
+ remove_trait_super_governor_01_interaction:0 "Retirer Super Gouverneur niv. 1"
+ remove_trait_super_governor_01_interaction_desc:0 "Retirer le trait Super Gouverneur niveau 1 du personnage ciblé"
+
+ add_trait_super_governor_02_interaction:0 "Ajouter Super Gouverneur niv. 2"
+ add_trait_super_governor_02_interaction_desc:0 "Ajouter le trait Super Gouverneur niveau 2 au personnage ciblé"
+ remove_trait_super_governor_02_interaction:0 "Retirer Super Gouverneur niv. 2"
+ remove_trait_super_governor_02_interaction_desc:0 "Retirer le trait Super Gouverneur niveau 2 du personnage ciblé"
+
+ add_trait_super_governor_03_interaction:0 "Ajouter Super Gouverneur niv. 3"
+ add_trait_super_governor_03_interaction_desc:0 "Ajouter le trait Super Gouverneur niveau 3 au personnage ciblé"
+ remove_trait_super_governor_03_interaction:0 "Retirer Super Gouverneur niv. 3"
+ remove_trait_super_governor_03_interaction_desc:0 "Retirer le trait Super Gouverneur niveau 3 du personnage ciblé"
+ 
+ add_trait_super_general_01_interaction:0 "Ajouter Super Général niv. 1"
+ add_trait_super_general_01_interaction_desc:0 "Ajouter le trait Super Général niveau 1 au personnage ciblé"
+ remove_trait_super_general_01_interaction:0 "Retirer Super Général niv. 1"
+ remove_trait_super_general_01_interaction_desc:0 "Retirer le trait Super Général niveau 1 du personnage ciblé"
+
+ add_trait_super_general_02_interaction:0 "Ajouter Super Général niv. 2"
+ add_trait_super_general_02_interaction_desc:0 "Ajouter le trait Super Général niveau 2 au personnage ciblé"
+ remove_trait_super_general_02_interaction:0 "Retirer Super Général niv. 2"
+ remove_trait_super_general_02_interaction_desc:0 "Retirer le trait Super Général niveau 2 du personnage ciblé"
+
+ add_trait_super_general_03_interaction:0 "Ajouter Super Général niv. 3"
+ add_trait_super_general_03_interaction_desc:0 "Ajouter le trait Super Général niveau 3 au personnage ciblé"
+ remove_trait_super_general_03_interaction:0 "Retirer Super Général niv. 3"
+ remove_trait_super_general_03_interaction_desc:0 "Retirer le trait Super Général niveau 3 du personnage ciblé"
+
+ add_trait_bone_female_wife_interaction:0 "Pour la reine"
+ add_trait_bone_female_wife_interaction_desc:0 "Votre épouse sera désormais encore plus impressionnante"
+ remove_trait_bone_female_wife_interaction:0 "Retirer le trait Reine"
+ remove_trait_bone_female_wife_interaction_desc:0 "Retirer le trait Reine du personnage ciblé"
+
+ add_trait_bone_female_heir_interaction:0 "Super-femmes"
+ add_trait_bone_female_heir_interaction_desc:0 "Trait Super-femmes"
+ remove_trait_bone_female_heir_interaction:0 "Retirer le trait Super-femmes"
+ remove_trait_bone_female_heir_interaction_desc:0 "Retirer le trait Super-femmes du personnage ciblé"
+
+ bone_add_gold_and_prestige:0 "Ajouter or et prestige"
+ bone_add_gold_and_prestige_desc:0 "Ajouter de l'or et du prestige au personnage ciblé"
+
+ bone_start_pregnancy_interaction:0 "Démarrer une grossesse personnalisée"
+ bone_start_pregnancy_interaction_desc:0 "Démarrer une grossesse ; vous pouvez choisir différentes options"
+
+ bone_add_weak_hook_interaction:0 "Ajouter un faible moyen de pression"
+ bone_add_weak_hook_interaction_desc:0 "Ajouter un faible moyen de pression de la cible sur votre personnage"
+
+ bone_add_strong_hook_interaction:0 "Ajouter un fort moyen de pression"
+ bone_add_strong_hook_interaction_desc:0 "Ajouter un fort moyen de pression de la cible sur votre personnage"
+
+ bone_slay_character_interaction:0 "Élimination rapide"
+ bone_slay_character_interaction_desc:0 "Un personnage aléatoire tuera le personnage lors d'un assassinat"
+
+ bone_take_title_interaction:0 "Prendre le titre"
+ bone_take_title_interaction_desc:0 "Prendre le titre de la cible"
+
+ king_of_kings_interaction:0 "Roi des rois"
+ king_of_kings_interaction_desc:0 "Traits pour le roi des rois"
+
+ beauty_interaction:0 "Séduisant"
+ beauty_interaction_desc:0 "HrHr"
+ 
+ great_general_interaction:0 "Grand général"
+ great_general_interaction_desc:0 "Traits pour être le meilleur général sur le champ de bataille"
+
+ learned_from_the_best_interaction:0 "MIT"
+ learned_from_the_best_interaction_desc:0 "Étudiant du MIT"
+
+ bone_change_religion:0 "Changer de religion"
+ bone_change_religion_desc:0 "La cible se convertit à votre religion"
+
+ bone_change_culture:0 "Changer de culture"
+ bone_change_culture_desc:0 "La cible adopte votre culture"

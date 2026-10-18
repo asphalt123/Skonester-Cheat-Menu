@@ -1,0 +1,42 @@
+﻿l_french:
+ #Skonester Edition
+ pcm_money_decision_title:0 "#Skonester:#! Trésor du domaine"
+ pcm_money_decision_desc:0 "Faites surgir un immense trésor et recevez une abondance d'or, de piété et de renommée."
+ pcm_money_decision_tooltip:0 "Obtenez un grand magot d'or, de piété et de prestige pour commencer votre règne avec force."
+ pcm_money_decision_ct:0 "Les coffres des rois débordent devant moi !"
+
+ pcm_subrealm_to_culture_decision_title:0 "#Skonester:#! Édit de culture"
+ pcm_subrealm_to_culture_decision_desc:0 "Proclamez un édit ordonnant à tous les vassaux et à toutes les terres d'adopter la culture de leur suzerain."
+ pcm_subrealm_to_culture_decision_tooltip:0 "Unissez votre domaine sous une seule culture."
+ pcm_subrealm_to_culture_decision_ct:0 "Désormais, le domaine parlera d'une seule langue et suivra une seule coutume."
+
+ pcm_convert_subrealm_to_religion_decision_title:0 "#Skonester:#! Édit de foi"
+ pcm_convert_subrealm_to_religion_decision_desc:0 "Proclamez un édit ordonnant que vos vassaux et votre sous-domaine soient convertis à votre foi."
+ pcm_convert_subrealm_to_religion_decision_tooltip:0 "Unissez votre domaine sous une seule bannière sacrée."
+ pcm_convert_subrealm_to_religion_decision_ct:0 "Que la lumière de la vérité tombe sur les égarés !"
+
+ pcm_show_decision_title:0 "--= #Skonester:#! Révéler les édits cachés =--"
+ pcm_show_decision_desc:0 "Révéler tous les décrets de Skonester."
+ pcm_show_decision_tooltip:0 ""
+ pcm_show_decision_ct:0 "Ainsi soit-il écrit, ainsi soit-il connu."
+
+ pcm_hide_decision_title:0 "--= #Skonester:#! Dissimuler les édits =--"
+ pcm_hide_decision_desc:0 "Dissimuler les décrets de Skonester à la vue."
+ pcm_hide_decision_tooltip:0 ""
+ pcm_hide_decision_ct:0 "Scellez les parchemins et faites taire les langues."
+
+ pcm_cure_pox_decision_title:0 "#Skonester:#! Purge des afflictions"
+ pcm_cure_pox_decision_desc:0 "Par décret, toutes les maladies charnelles et les maux courants seront bannis du domaine."
+ pcm_cure_pox_decision_tooltip:0 "Purifiez le domaine des afflictions nées de la chair."
+ pcm_cure_pox_decision_ct:0 "Les herbes du guérisseur et les huiles saintes me rendent à la pureté !"
+
+ pcm_cure_all_decision_title:0 "#Skonester:#! Panacée du domaine"
+ pcm_cure_all_decision_desc:0 "Un élixir merveilleux est proclamé, guérissant toutes les maladies à travers le pays."
+ pcm_cure_all_decision_tooltip:0 "Guérissez tous les maux et les fléaux dans tout le domaine."
+ pcm_cure_all_decision_ct:0 "Réjouissez-vous ! L'ombre de la maladie se lève de notre peuple."
+
+ pcm_cure_inbred_decision_title:0 "#Skonester:#! Purification des lignées"
+ pcm_cure_inbred_decision_desc:0 "Par des rites mystiques et la faveur divine, les souillures de votre domaine sont purifiées."
+ pcm_cure_inbred_decision_tooltip:0 "Retirez toutes les mauvaises humeurs et tous les défauts du domaine."
+ pcm_cure_inbred_decision_ct:0 "Le sang de ma terre coule de nouveau pur et fort !"
+ 

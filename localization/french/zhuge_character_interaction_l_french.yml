@@ -1,0 +1,116 @@
+﻿l_french:
+ zhuge_organize_titles:0 "Réorganiser le de jure"
+ zhuge_organize_titles_desc:0 "Par décret de couronne et de sceptre, toutes les terres et tous les vassaux plieront le genou et seront tissés dans le domaine légitime de leur seigneur."
+ 
+ zhuge_destroy_title:0 "Détruire le titre principal"
+ zhuge_destroy_title_desc:0 "Brise ta propre couronne et réduis le titre en poussière, comme s'il n'avait jamais existé — un coup audacieux, mais folie aux yeux de la plupart."
+ 
+ zhuge_buff_01:0 "Habilitation impériale"
+ zhuge_buff_01_desc:0 "Bois le pouvoir à grandes gorgées, même si chaque trait raccourcit la chandelle de ta propre vie."
+ 
+ zhuge_buff_01_tt:0 "Activer/désactiver le trait Habilitation impériale ?"
+ 
+ zhuge_buff_02:0 "Grand maréchal"
+ zhuge_buff_02_desc:0 "Maréchal de maintes bannières, gardien des frontières et fléau des parjures. Un rôle chanté en vers dans les banquets d'hydromel."
+ 
+ zhuge_buff_02_tt:0 "Activer/désactiver le trait Grand maréchal ?"
+ 
+ zhuge_buff_03:0 "Grand érudit"
+ zhuge_buff_03_desc:0 "Gardien du savoir, scribe de la sagesse, dont la plume guide le domaine mieux que cent épées."  
+ zhuge_buff_03_tt:0 "Activer/désactiver le trait Grand érudit ?"
+ 
+ zhuge_buff_04:0 "Apprendre leur langue"
+ zhuge_buff_04_desc:0 "Par l'esprit ou la sorcellerie, adoptez presque instantanément la langue d'un autre peuple."
+ zhuge_buff_04_tt:0 "Apprendre cette langue ?"
+ 
+ zhuge_buff_05:0 "Accorder l'honneur chevaleresque"
+ zhuge_buff_05_desc:0 "Revêts ce chevalier de renommée et couronne-le d'honneur, afin que son nom soit acclamé dans les salles et les foyers."
+ zhuge_buff_05_tt:0 "Activer/désactiver le trait Honneur chevaleresque ?"
+ zhuge_buff_05_high_tt:0 "Ajouter 2 500 de gloire (maximise l'[accolade|E])."
+ zhuge_buff_05_low_tt:0 "Ajouter 500 de gloire."
+ zhuge_buff_05_delete01_tt:0 "Retirer 500 de gloire."
+ zhuge_buff_05_delete02_tt:0 "Réinitialiser la gloire à zéro."
+ 
+ daddy_pika_add_strong_hook:0 "Obtenir un levier puissant"
+ daddy_pika_add_strong_hook_desc:0 "Assurez une emprise secrète sur cette âme, une chaîne cachée, invisible mais incassable."
+ 
+ strong_test_hook:0 "Attachement divin"
+ strong_hook:0 "Attachement divin"
+ strong_hook_desc:0 "Cette âme adresse des prières ferventes à une puissance invisible, mais que les dieux l'écoutent ou s'en gaussent autour de leur hydromel demeure un mystère enveloppé d'ombre."
+ 
+ zhuge_bloodline_03:0 "Oint par Barbara"
+ zhuge_bloodline_03_desc:0 "Marqué entre tous, son sang luit d'une bénédiction singulière."
+ zhuge_bloodline_03_tt:0 "Activer/désactiver le trait Sang divin ?"
+ 
+ zhuge_yixue_01:0 "Miracle médical"
+ zhuge_yixue_01_desc:0 "Purgez tous les maux de la chair et des os, et changez la fragilité en une force que les dieux eux-mêmes pourraient envier."
+ zhuge_yixue_01_tt:0 "Appliquer le miracle médical ?"
+ 
+ zhuge_yixue_02:0 "Corriger la personnalité"
+ zhuge_yixue_02_desc:0 "Là où les humeurs de l'âme allaient mal, elles sont remises d'aplomb comme si un saint avait posé les mains sur l'esprit."
+ zhuge_yixue_02_tt:0 "Corriger la personnalité de ce personnage ?"
+ 
+ zhueg_yixue_03:0 "Retirer les vices"
+ zhueg_yixue_03_desc:0 "Tabac, boisson et péché sont tous bannis — même si les tavernes pourraient pleurer la perte d'un habitué."
+ zhueg_yixue_03_tt:0 "Retirer ces vices ?"
+ 
+ zhuge_yixue_04:0 "Ajouter des traits congénitaux"
+ zhuge_yixue_04_desc:0 "Béni de dons d'esprit et de corps — génie, vigueur, beauté et ruse." 
+ zhuge_yixue_04_tt:0 "Accorder des traits congénitaux ?"
+ 
+ zhuge_yixue_05:0 "Immunité à la peste"
+ zhuge_yixue_05_desc:0 "Aucune maladie majeure ne peut toucher cette âme (les maladies mineures restent possibles, cher enfant)."
+ zhuge_yixue_05_tt:0 "Activer/désactiver l'immunité à la peste ?"
+ 
+ zhuge_yixue_06:0 "Renforcer médecin ou éducation"
+ zhuge_yixue_06_desc:0 "Élevez son érudition à des hauteurs sublimes, comme s'il avait été instruit par les érudits d'autrefois... ou du moins par un scalde bien ivre."
+ zhuge_yixue_06_tt:0 "Renforcer son éducation ?"
+ 
+ zhuge_set_relation_interaction:0 "Définir la relation"
+ zhuge_set_relation_interaction_desc:0 "Ordonnez un changement de lien et de statut entre vous et [recipient.GetShortUIName] ; ami, ennemi ou quelque chose entre les deux."
+ 
+ zhuge_add_truce_interaction:0 "Ajuster la trêve"
+ zhuge_danx_hd_01_desc:0 "À sens unique (obtenir)"
+ zhuge_danx_give_01_desc:0 "À sens unique (accorder)"
+ zhuge_danx_sx_01_desc:0 "Bilatérale"
+ zhuge_danx_sx_02_desc:0 "Retirer la trêve"
+ ZHUGE_TRUCE:0 "#Y La trêve sauveuse de face de Zhuge#!"
+ zhuge_remove_truce_effect:0 "Ton [truce|E] prend fin — voilà pour la « paix éternelle »."
+ 
+ zhuge_set_authority_inter:0 "Définir le niveau d'autorité"
+ zhuge_set_authority_inter_desc:0 "Fixez la puissance de la couronne selon une mesure de fer, qu'elle soit faible comme un murmure ou haute comme un décret céleste."
+ zhuge_set_authority_title:0 "Définir le niveau d'autorité"
+ zhuge_set_authority_desc:0 "Choisissez le niveau d'autorité souhaité :"
+ zhuge_set_authority_0:0 "Vassaux autonomes"
+ zhuge_set_authority_1:0 "Autorité limitée"
+ zhuge_set_authority_2:0 "Autorité élevée"
+ zhuge_set_authority_3:0 "Autorité absolue"
+ zhuge_set_authority_cancel:0 "Annuler"
+ 
+ zhuge_set_artifact_interaction:0 "Invoquer un objet rutilant"
+ zhuge_set_artifact_interaction_desc:0 "Tenez, regardez ! Une relique apparaît ; ne remettez pas la fortune en question."
+ 
+ zhuge_kill_xingzh_house_interaction:0 "Une petite poussée aux nobles (du haut d'une falaise)"
+ zhuge_kill_xingzh_house_interaction_desc:0 "Ces hautes maisons s'engraissent et paressent ; le bord de la falaise attend leur grand nettoyage de printemps."
+ 
+ zhuge_huoqu_artifact_interaction:0 "Emprunt royal (totalement temporaire)"
+ zhuge_huoqu_artifact_interaction_desc:0 "Ce trésor est vraiment magnifique. Laisse-moi le garder « en lieu sûr »."
+ 
+ zhuge_jiequ_artifact_player:0 "Joli trésor. Je le prends."
+ 
+ zhuge_liuguan_interaction:0 "Pacifier et intégrer"
+ zhuge_liuguan_interaction_desc:0 "« Tu es un bon sujet », proclame la couronne. Maintenant, laisse-toi engloutir tout entier par mon domaine."
+ 
+ zhuge_select_succeed:0 "Le sexe de l'enfant est scellé par le destin et le décret !"
+ 
+ zhuge_great_steppe:0 "Changer la #bold saison des steppes#!"
+ zhuge_great_steppe_desc:0 "Ordonnez aux saisons de la steppe — neige, printemps ou été."
+ 
+ zhuge_ymbuff_02:0 "Mandat des nomades"
+ zhuge_ymbuff_02_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est acclamé comme envoyé du Ciel."
+ 
+ zhuge_mpo_qiyue:0 "Modifier le contrat de tribut"
+ zhuge_mpo_qiyue_desc:0 "Retordez et modifiez les serments de tribut avec [recipient.GetShortUINameNoTooltip], avec l'adresse d'un jarl marchandant de la bière."
+ 
+ zhuge_lifexp_all_xp:0 "Bonus de compétence de mode de vie"
+ zhuge_lifexp_all_xp_desc:0 "#bold #P Débloquez tous les arts et métiers de la vie — la connaissance#!#!"

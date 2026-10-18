@@ -1,0 +1,13 @@
+﻿l_french:
+ skonester_domicile_preset_economy_bonus_modifier: "Préréglage de domaine · Bonus économique"
+ skonester_domicile_preset_military_bonus_modifier: "Préréglage de domaine · Bonus militaire"
+ skonester_domicile_preset_balanced_bonus_modifier: "Préréglage de domaine · Bonus équilibré"
+ skonester_domicile_cheat.0100.t: "Panneau de modification du système de manoir"
+ skonester_domicile_cheat.0100.desc: "Sélectionnez la portée des améliorations de domaine.\nSynchronise automatiquement les traditions culturelles et évite les applications en double."
+ skonester_domicile_cheat.0100.own: "Améliorer tous les domaines familiaux"
+ skonester_domicile_cheat.0100.own_tt: "S'applique uniquement aux domaines appartenant à votre famille et ajoute des traditions culturelles prédéfinies."
+ skonester_domicile_cheat.0100.global: "Améliorer tous les domaines du monde"
+ skonester_domicile_cheat.0100.global_tt: "Analyse tous les personnages vivants sur la carte et améliore chaque domaine qu'ils possèdent. (Uniquement disponible pour les dirigeants indépendants)"
+ skonester_domicile_cheat.0100.close: "@cross_icon! Fermer le panneau"
+ skonester_domicile_cheat_done: "Traité"
+ skonester_domicile_cheat_active: "Système de réforme activé"

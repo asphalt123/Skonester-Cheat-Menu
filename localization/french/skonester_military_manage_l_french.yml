@@ -1,0 +1,57 @@
+﻿l_french:
+ skonester_cheat_menu_military_manage_menu_interaction: "Gestion militaire"
+ skonester_cheat_menu_military_manage_menu_interaction_desc: "Gérez les levées, les hommes d'armes d'élite, développez les régiments, renforcez les troupes, levées illimitées et mode dieu de l'armée"
+ skonester_military_raise_levies_army_name: "Ost de levées de Skonester"
+ skonester_military_raise_levies_toast: "Levées levées"
+ skonester_military_raise_levies_toast_desc: "[skonester_military_toast_char.GetShortUIName] a levé des levées à la puissance militaire maximale."
+ skonester_military_add_maa_toast: "Hommes d'armes ajoutés"
+ skonester_military_add_maa_toast_desc: "De nouveaux régiments d'hommes d'armes ont été ajoutés pour [skonester_military_toast_char.GetShortUIName]."
+ skonester_military_add_maa_all_toast: "Tous les hommes d'armes d'élite ajoutés"
+ skonester_military_supply_on_toast: "Approvisionnement infini activé"
+ skonester_military_supply_on_toast_desc: "[skonester_military_toggle_char.GetShortUIName] : approvisionnement sans fin, entretien et attrition quasi nuls."
+ skonester_military_supply_off_toast: "Approvisionnement infini désactivé"
+ skonester_military_levy_on_toast: "Levées illimitées activées"
+ skonester_military_levy_on_toast_desc: "[skonester_military_toggle_char.GetShortUIName] : taille des levées ×100, entretien quasi nul pour les troupes non levées."
+ skonester_military_levy_off_toast: "Levées illimitées désactivées"
+ skonester_military_god_on_toast: "Mode dieu de l'armée activé"
+ skonester_military_god_on_toast_desc: "[skonester_military_toggle_char.GetShortUIName] : pertes quasi nulles, vitesse de marche maximale."
+ skonester_military_god_off_toast: "Mode dieu de l'armée désactivé"
+
+ skonester_military_expand_maa_toast: "Hommes d'armes développés"
+ skonester_military_expand_maa_toast_desc: "Chaque régiment de [skonester_military_expand_toast_char.GetShortUIName] a gagné +5 unités et a été entièrement renforcé."
+ skonester_military_instant_replenish_modifier: "Skonester · Approvisionnement sans fin (les vivres de guerre ne s'épuisent jamais, entretien quasi nul)"
+ skonester_military_supply_overflow_modifier: "Skonester · Approvisionnement excédentaire"
+ skonester_military_levy_overflow_modifier: "Skonester · Levées illimitées"
+ skonester_military_maintenance_waive_a_modifier: "Skonester · Entretien nul (A)"
+ skonester_military_maintenance_waive_b_modifier: "Skonester · Entretien nul (B)"
+ skonester_military_maintenance_waive_c_modifier: "Skonester · Entretien nul (C)"
+ skonester_military_god_mode_modifier: "Skonester · Mode dieu de l'armée (vitesse de marche maximale)"
+
+ skonester_cheat_menu.3080.t: "Gestion militaire"
+ skonester_cheat_menu.3080.desc: "Ajustez les armées et les levées de [skonester_cheat_menu_target.GetShortUIName]."
+
+
+ skonester_cheat_menu.3085.t: "Levées et hommes d'armes"
+ skonester_cheat_menu.3085.desc: "Gérez les levées et les hommes d'armes de [skonester_cheat_menu_target.GetShortUIName]."
+ skonester_cheat_menu.3086.t: "Bonus d'armée"
+ skonester_cheat_menu.3086.desc: "Activez ou désactivez les triches d'approvisionnement, de levées et de mode dieu pour [skonester_cheat_menu_target.GetShortUIName]."
+
+
+
+ skonester_cheat_menu.3081.t: "Ajouter des hommes d'armes d'élite"
+ skonester_cheat_menu.3081.desc: "Ajoutez des régiments d'hommes d'armes pour [skonester_cheat_menu_target.GetShortUIName]. Chaque clic ajoute environ 5 unités de 100 hommes."
+
+ skonester_cheat_menu.3090.t: "Unités d'élite supplémentaires"
+ skonester_cheat_menu.3090.desc: "Ajoutez des éléphants de guerre, des arbalétriers ou les cinq types d'unités d'élite."
+
+ skonester_military_knight_limit_modifier: "Skonester · Capacité de chevaliers"
+ skonester_military_knight_power_modifier: "Skonester · Puissance de combat des chevaliers"
+ skonester_military_accolade_glory_modifier: "Skonester · Gloire d'accolade accrue"
+
+ skonester_cheat_menu.3190.opt_custom_accolade: "@accolade_icon! Accolades personnalisées"
+ skonester_cheat_menu.3190.opt_custom_accolade_tt: "Utilisez l'outil de création, gérez les accolades existantes ou créez des accolades virtuelles (aucune extension requise)."
+ skonester_cheat_menu.3190.t: "Accolades personnalisées"
+ skonester_cheat_menu.3190.desc: "Configurez les accolades de [skonester_cheat_menu_target.GetShortUIName]."
+ skonester_cheat_menu.3190.opt_wizard: "Outil de création"
+ skonester_cheat_menu.3190.opt_manage: "Gérer les existantes"
+ skonester_cheat_menu.3190.opt_virtual: "Accolade virtuelle"

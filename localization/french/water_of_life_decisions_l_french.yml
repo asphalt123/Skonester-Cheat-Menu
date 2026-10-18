@@ -1,0 +1,23 @@
+﻿l_french:
+
+ start_searching_for_water_of_life_decision:0 "Un jour sans mort"
+ start_searching_for_water_of_life_decision_tooltip:1 "Clavius n'a pas trouvé la paix qu'il cherchait à Rome, mais dans le #E Nous#! de Marie. Il assure leur lignée pour toujours."
+ 
+ start_searching_for_water_of_life_decision_desc:0 "#F « J'ai vu deux choses qui ne peuvent se concilier : un homme mort sans aucun doute, et ce même homme de nouveau vivant. »#!\n\nQuand le tribun Clavius Aquila fuit la folie de Rome, il suivit celle que les autres avaient rejetée. Comme l'atteste l'*Évangile de Marie*, Pierre la défia : « A-t-il vraiment parlé à une femme à notre insu ? » Mais Lévi répondit : « S'il l'a jugée digne, qui êtes-vous donc pour la rejeter ? »\n\nClavius devint l'épée de cette dignité. Pour protéger Marie — déguisée par des cheveux teints en rouge comme l'argile romaine — et leurs enfants secrets, il but à la Coupe. Il devint l'ancre contre la dissolution de la matière, gardant la vérité qu'elle enseignait : #'Le Fils de l'Homme est en vous. Suivez-le !'#!\n\n#P Le tribun n'est jamais mort. Il marche encore sur la terre, sentinelle éternelle de la Gnose.#!\n\n#X #bold ~ TRIBUN DE LA DIXIÈME, GARDIEN DU SILENCE ~ \n   ~ « IL L'AIMAIT PLUS QUE NOUS » ~ \n~ BARBARA, LA RENAISSANTE, SE LÈVERA ~ #! #!"
+ 
+ start_searching_for_water_of_life_decision_start:0 "#Y #bold *« Que la paix soit avec vous. Recevez ma paix en vous-mêmes. »#!"
+ 
+ start_searching_for_water_of_life_decision_proceed:0 "Le sceau du tombeau fut brisé, et avec lui l'emprise de la mort. Clavius persiste dans l'ombre, attendant le descendant qui porte le #E Nous#! (l'Intellect) de sa bien-aimée Marie. Acceptez de rejoindre la #P Lignée de Barbara#! — Madeleine renaissante. Gagnez #Z La Protection du tribun#! et #E la revendication du Graal#!, mais prenez garde à la jalousie des orthodoxes."
+ 
+ start_searching_for_water_of_life_decision_stress:0 "Marie enseignait : « Là où est l'esprit, là est le trésor. » Pourtant Clavius s'attarde dans la chair depuis des siècles, tandis qu'elle est montée se reposer dans le Silence. Puis-je supporter cette séparation ?"
+ 
+ start_searching_for_water_of_life_decision_stress_lazy:0 "#N « Prenez garde que personne ne vous égare. » Un gardien ne peut dormir. Avec [GetTrait('lazy').GetName( GetPlayer )], la discipline requise pour chercher le #E Fils de l'Homme en vous#! tombe en poussière.#!"
+ 
+ start_searching_for_water_of_life_decision_confirm:0 "Toutes les natures se résolvent en leurs racines."
+ 
+ water_of_life_modifier_knight_and_maa_limit_and_cap_increased:0 "Gardiens du Nous"
+ water_of_life_modifier_hunting_trophy:0 "L'Évangile secret"
+ water_of_life_modifier_good_deal:0 "Commerce avec le village caché"
+ water_of_life_modifier_hunting_trophy_desc:0 "Un fragment retrouvé de l'Évangile secret témoigne du voyage de ce dirigeant et de sa retenue dans les contrées sauvages."
+ water_of_life_modifier_good_deal_desc:0 "Des marchands du village caché du tribun apportent un flux régulier de commerce sur les terres de ce dirigeant."
+ water_of_life_modifier_knight_and_maa_limit_and_cap_increased_desc:0 "Les maisons qui fournissaient la longue garde du tribun engagent désormais leurs soldats auprès de son successeur."

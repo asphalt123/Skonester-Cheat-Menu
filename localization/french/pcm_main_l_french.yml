@@ -1,0 +1,32 @@
+﻿l_french:
+ 
+# PCM localization
+ set_immortal_interaction:0 "Accorder l'immortalité"
+ set_immortal_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] se verra accorder la vie éternelle, le visage à jamais figé à vingt-cinq hivers."
+
+ set_mortal_interaction:0 "Révoquer l'immortalité"
+ set_mortal_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] sera libéré des chaînes de la vie sans fin. Peut-être [recipient.GetSheHe] aspire-t-il au repos de la tombe."
+
+ set_super_interaction:0 "Oindre comme parangon"
+ set_super_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] sera exalté bien au-delà des mortels : inégalé en sagesse, en force, en fertilité, en vigueur, en renommée, en richesse et en effroi. Un véritable parangon parmi les seigneurs."
+
+ set_unsuper_interaction:0 "Révoquer les bénédictions du parangon"
+ set_unsuper_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] sera dépouillé de tous ses dons exaltés. [recipient.GetSheHe|U] pourrait trouver ce fardeau des plus pénibles."
+
+ set_super_governor_interaction:0 "Accorder le mandat de l'intendant"
+ set_super_governor_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] se verra accorder la maîtrise de la gouvernance des domaines : davantage de levées, une intendance avisée, une construction rapide des halles, une prospérité florissante et la faveur du peuple."
+
+ set_unsuper_governor_interaction:0 "Révoquer le mandat de l'intendant"
+ set_unsuper_governor_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] perdra ces bénédictions de gouvernance et retournera aux limites mortelles."
+
+ set_super_general_interaction:0 "Bénir comme chef de guerre"
+ set_super_general_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] deviendra un commandant d'armées sans égal : inégalé en bravoure, en prouesses martiales, en stratagème et en endurance ; craint au combat et rapide au siège."
+
+ set_unsuper_general_interaction:0 "Révoquer la bénédiction du chef de guerre"
+ set_unsuper_general_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] sera dépouillé de toute faveur divine à la guerre et pourra faillir là où [recipient.GetSheHe] triomphait autrefois."
+
+ set_all_in_one_interaction:0 "Couronner comme exemplaire"
+ set_all_in_one_interaction_desc:0 "Pour [recipient.GetShortUINameNoTooltip|U], toutes les bénédictions sont accordées : Parangon, Mandat de l'intendant et Fléau du chef de guerre, réunis en une seule forme. Une véritable merveille des mystères de Skonester."
+
+ set_unall_in_one_interaction:0 "Retour à la condition mortelle"
+ set_unall_in_one_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] perdra tous les dons de parangon, d'intendant et de chef de guerre, et marchera de nouveau comme un enfant des hommes."

@@ -1,0 +1,23 @@
+﻿l_french:
+GET_TARGET_TITLE_NAME:0 "[target.GetBaseNameNoTierNoTooltip]"
+GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
+
+skonester_create_titular.back:0 "Retour"
+
+
+skonester_create_titular:0 "Créer un titre titulaire"
+
+skonester_create_titular.1000.t:0 "Choisir le propriétaire"
+skonester_create_titular.1000.desc:0 "#S Qui doit recevoir le titre ? #!"
+
+skonester_create_titular.1000.me:0 "Le prendre pour moi !"
+skonester_create_titular.1000.recipient:0 "L'accorder à [recipient.GetNameNoTooltip]"
+
+
+skonester_create_titular.1001.desc:0 "#S Sélectionnez le rang souhaité pour le titre #!"
+skonester_create_titular.1001.t:0 "Rang du titre"
+
+skonester_create_titular.1001.duchy:0 "Créer un duché #!"
+skonester_create_titular.1001.kingdom:0 "Créer un royaume"
+skonester_create_titular.1001.empire:0 "Créer un empire"
+skonester_create_titular.1001.hegemony:0 "Créer une hégémonie"

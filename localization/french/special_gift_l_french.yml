@@ -1,0 +1,21 @@
+﻿l_french:
+ special_gift_interaction:0 "#bold #X E#!#N a#!#X u#! #X V#!#N i#!#X v#!#N e#! #!"
+ special_gift_interaction_desc:0 "Offrez à [recipient.GetShortUINameNoTooltip] la vérité que Clavius a trouvée dans le tombeau vide—une boisson qui sépare l'Esprit des chaînes de la matière."
+ special_gift_interaction_tooltip:0 "Debout, [recipient.GetShortUINameNoTooltip]. Les Empires tombent en poussière, mais nous demeurons. Buvez, et acquérez la #E Paix#! en vous-même."
+
+ special_gift_interaction_2:0 "#bold #X E#!#N a#!#X u#! #X V#!#N i#!#X v#!#N e#! #!"
+ special_gift_interaction_desc_2:0 "Partagez la Coupe avec [recipient.GetShortUINameNoTooltip]—liant vos âmes au-delà de la portée des Puissances qui gouvernent ce monde."
+ special_gift_interaction_tooltip_2:0 "Mon bien-aimé [recipient.GetFirstNameNoTooltip], 'deux choses qui ne peuvent se réconcilier' ont trouvé leur union en nous. Buvez, et demeurons ensemble dans le Silence pour toujours."
+
+ special_gift_interaction_3:0 "#bold #X E#!#N a#!#X u#! #X V#!#N i#!#X v#!#N e#! #!"
+ special_gift_interaction_desc_3:0 "Transmettez le fardeau de la Veille à [recipient.GetShortUINameNoTooltip]—afin que la lignée de Marie s'élève au-dessus de la dissolution de la nature."
+ special_gift_interaction_tooltip_3:0 "Mon enfant, le #E Fils de l'Homme#! est en toi. Suis-Le ! Buvez, et devenez l'ancre qui tient bon contre le flot du temps."
+
+ special_gift_interaction_4:0 "#bold #X E#!#N a#!#X u#! #X V#!#N i#!#X v#!#N e#! #!"
+ special_gift_interaction_desc_4:0 "Accordez à [recipient.GetShortUINameNoTooltip] la vitalité de la Dixième Légion—une loyauté forgée non dans l'or, mais dans l'éternité de l'Esprit."
+ special_gift_interaction_tooltip_4:0 "Camarade soldat, [recipient.GetShortUINameNoTooltip]—buvez. La guerre est longue, et la mort est un sommeil que nous ne pouvons plus nous permettre. Tenez la ligne avec moi."
+
+ trait_water_of_life:0 "Sentinelle de la Parole"
+ trait_water_of_life_desc:0 "Ayant bu à la coupe gardée par Clavius Aquila, ce personnage porte le devoir de Sentinelle éternelle. Le temps ne peut flétrir son corps ni ternir son esprit. Des siècles de service promettent sagesse, force et un esprit inébranlable.\n\n#P Restauration :#! Les maux liés à l'âge, l'incapacité, les blessures et les maladies existants sont purgés lorsque la bénédiction est reçue, au chargement de la partie et lors de l'entretien mensuel."
+ trait_water_of_life_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a repris la garde de Clavius Aquila en tant que Sentinelle de la Parole. Un corps sans âge, un esprit infatigable et une foi durable soutiennent le gardien du Graal.\n\n#P Restauration :#! Les maux liés à l'âge, l'incapacité, les blessures et les maladies sont purgés au chargement de la partie et lors de l'entretien mensuel."
+

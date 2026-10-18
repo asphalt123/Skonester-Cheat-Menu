@@ -1,0 +1,46 @@
+﻿l_french:
+  trait_boost_stats:0 "Améliorer toutes les caractéristiques"
+  trait_boost_stats_desc:0 "Augmente toutes les caractéristiques de 50."
+  trait_boost_stats_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est une figure légendaire dotée de caractéristiques extraordinaires."
+  
+  trait_boost_hufu:0 "Renfort d'autorité impériale"
+  trait_boost_hufu_desc:0 "Au prix de sa propre vie, il canalise la puissance naturelle du ciel et de la terre pour rendre les décisions de l'empereur plus sages, garantissant que les affaires de l'État soient ordonnées, stables et prospères."
+  trait_boost_hufu_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est un grand empereur qui s'est sacrifié pour la prospérité et la démocratie de la nation."
+  
+  trait_boost_dudu1:0 "Commandant militaire"
+  trait_boost_dudu1_desc:0 "Général des cinq armées — responsable des affaires militaires frontalières ou régionales."
+  trait_boost_dudu1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est le commandant militaire direct du dirigeant, un soutien indéfectible de la maison."
+  
+  trait_boost_xueshi1:0 "Érudit honorifique"
+  trait_boost_xueshi1_desc:0 "Un érudit du cabinet de l'Académie Hanlin et conseiller du roi."
+  trait_boost_xueshi1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est l'un des conseillers lettrés de confiance du roi."
+  
+  trait_plague_immunity:0 "Immunité à la peste"
+  trait_plague_immunity_desc:0 "Ce personnage, béni par « Barbara », ne contractera pas la peste."
+  trait_plague_immunity_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est immunisé contre la peste."
+  
+  trait_zg_buxiu:0 "Immortel"
+  trait_zg_buxiu_desc:0 "Votre personnage est immortel."
+  trait_zg_buxiu_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est immortel."
+  
+  trait_bloodline_god_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est de la lignée divine de Barbara."
+  
+ trait_bloodline_god_3:0 "Sang oint de Barbara"
+ trait_bloodline_god_3_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est proche du divin."
+ trait_bloodline_god_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] descend de la lignée #Y impériale #! #bold de pur-sang#! de Barbara, portant un lignage sacré lié au Mandat du Ciel."
+
+ trait_bloodline_god_2:0 "Sang royal de Barbara"
+ trait_bloodline_god_2_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] porte la veine royale de Barbara."
+ trait_bloodline_god_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] hérite du lignage #bold royal#! de Barbara. Bien que non pur-sang, il est favorisé par le Mandat du Ciel."
+
+ trait_bloodline_god_1:0 "Sang spirituel de Barbara"
+ trait_bloodline_god_1_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] porte les vestiges de la lignée divine de Barbara."
+ trait_bloodline_god_1_character_desc:0 "Une faible étincelle du sang de Barbara court dans les veines de [ROOT.GetCharacter.GetFirstNameNoTooltip]. Bien que lointain, l'héritage divin demeure encore dans son esprit."
+
+  
+  trait_zhuge_kill_02:0 "Vin du roi"
+  trait_zhuge_kill_02_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a été exécuté par l'élu du destin\nQuand un roi meurt, l'État périt ; les ministres loyaux tombent par décret du roi."
+  trait_zhuge_kill_02_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a été exécuté par l'élu du destin."
+  trait_zhuge_ymbuff_01:0 "Mandat nomade"
+  trait_zhuge_ymbuff_01_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est le chef mandaté du peuple."
+  trait_zhuge_ymbuff_01_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est le chef mandaté du peuple."

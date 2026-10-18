@@ -1,0 +1,6 @@
+﻿l_french:
+  become_conqueror_interaction:0 "Accorder les titres légendaires"
+  become_conqueror_interaction_desc:0 "Conférez à ce personnage les titres et traits légendaires des plus grands dirigeants de CK3. Il sera connu sous les noms suivants :\n\n- Conquérant\n- Le plus grand des Khans\n- Chakravarti\n- Roi croisé\n- Sauveur\n- Légende vivante\n- Lignée dorée\n- Campeador\n- Saoshyant"
+
+  remove_conqueror_interaction:0 "Révoquer les titres légendaires"
+  remove_conqueror_interaction_desc:0 "Dépouillez ce personnage de tous ses titres et traits légendaires, le ramenant à un statut plus ordinaire. Il ne portera plus :\n\n- Conquérant\n- Le plus grand des Khans\n- Chakravarti\n- Roi croisé\n- Sauveur\n- Légende vivante\n- Lignée dorée\n- Campeador\n- Saoshyant"

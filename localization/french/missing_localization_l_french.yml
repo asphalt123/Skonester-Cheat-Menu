@@ -1,0 +1,68 @@
+﻿l_french:
+
+ # --- Interactions ---
+ toc__interaction:1 "Action rapide"
+
+ # --- Decisions ---
+ toc_deceitful_progress_hostile_schemes_decision:0 "Faire progresser les manigances hostiles"
+ toc_deceitful_progress_hostile_schemes_decision_confirm:0 "Mettez les manigances en marche."
+ toc_deceitful_progress_hostile_schemes_decision_tooltip:0 "Fait avancer toutes les manigances hostiles actives."
+
+ toc_diligent_development_focus_decision:0 "Se concentrer sur le développement"
+ toc_diligent_development_focus_decision_confirm:0 "Commencez le travail."
+
+ toc_impatient_rushing_all_schemes_decision:0 "Accélérer toutes les manigances"
+ toc_impatient_rushing_all_schemes_decision_confirm:0 "Faites-les avancer maintenant."
+
+ tocwinwars_decision:0 "Résoudre toutes les guerres"
+ tocwinwars_decision_desc:0 "Vos guerres ont assez duré. Donnez l'ordre d'y mettre fin."
+ tocwinwars_decision_tooltip:0 "Toutes les guerres en cours seront résolues immédiatement."
+ tocwinwars_decision_confirm:0 "Y mettre fin."
+
+ toc_armyslaughter_decision:0 "Ravager la province"
+ toc_armyslaughter_decision_desc:0 "Cette province a causé assez d'ennuis. Vous en ferez un exemple et vous assurerez qu'elle ne résiste plus."
+ toc_armyslaughter_decision_tooltip:0 "Votre armée commandée doit être présente dans la province cible."
+ toc_armyslaughter_decision_confirm:0 "Donnez l'ordre."
+
+ toc_armybuilders_decision:0 "Développer le territoire"
+ toc_armybuilders_decision_desc:0 "Ce territoire recèle un potentiel inexploité. Mettez vos forces au travail et tirez-en parti."
+ toc_armybuilders_decision_tooltip:0 "Votre armée commandée doit être présente sur le territoire cible."
+ toc_armybuilders_decision_confirm:0 "Donnez l'ordre."
+
+ toc_build_decision:0 "Développer la province"
+ toc_build_decision_desc:0 "Cette province a de la marge pour se développer. Avec le bon investissement, elle pourrait devenir un centre florissant de votre domaine."
+ toc_build_decision_tooltip:0 "Votre armée commandée doit être présente sur le territoire cible."
+ toc_build_decision_confirm:0 "Commencez la construction."
+
+ # --- Messages ---
+ msg_armyslaughter_decision:0 "La province a été ravagée."
+ msg_armybuilders_decision:0 "Le territoire a été développé."
+
+ # --- Modifiers ---
+ toc_diplomaticrange_modifier:1 "Portée diplomatique étendue"
+ toc_diplomaticrange_modifier_desc:1 "L'influence de ce dirigeant s'étend bien au-delà de ses frontières."
+
+ toc_exoticcourtbonus:1 "Cour exotique"
+ toc_exoticcourtbonus_desc:1 "Cette cour attire des visiteurs de terres lointaines, lui conférant un air de prestige et d'intrigue."
+
+ toc_fertile_modifier:1 "Fécondité bénie"
+ toc_fertile_modifier_desc:1 "Ce personnage est exceptionnellement fécond et susceptible de produire de nombreux héritiers."
+
+ toc_dreadful_modifier:1 "Réputation terrible"
+ toc_dreadful_modifier_desc:1 "Le nom de ce dirigeant inspire la peur dans tout le domaine."
+
+ toc_notyranny_modifier:1 "Règne juste"
+ toc_notyranny_modifier_desc:1 "Ce dirigeant gouverne sans recourir à la tyrannie."
+
+ toc_superknights_modifier:1 "Chevaliers d'élite"
+ toc_superknights_modifier_desc:1 "Ce dirigeant commande des chevaliers d'une compétence et d'une renommée exceptionnelles."
+ 
+ toc_uncelibate_interaction:1 "Non chaste"
+
+
+ # --- Commented / Unused ---
+ #toc_major_purge_war:0 "Purge War"
+ #trait_pure_blooded_desc:0 "This character is of a pure bloodline."
+ #trait_gigasuperseed:0 "Pure-blooded"
+ #trait_gigasuperseed_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure bloodline."
+

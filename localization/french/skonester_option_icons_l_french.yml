@@ -1,0 +1,466 @@
+﻿l_french:
+
+# AUTO: tools/gen_skonester_option_text_icons.py
+
+ skonester_acm_repair.8001.next_page: "@skill_learning_icon! Page suivante"
+
+ skonester_acm_repair.8001.prev_page: "@skill_martial_icon! Page précédente"
+
+ skonester_art.3094.next_page: "@skill_learning_icon! Page suivante (plus d'artefacts)"
+
+ skonester_art.3094.prev_page: "@skill_martial_icon! Page précédente"
+
+ skonester_auto_appointment_test.1000.close: "@cross_icon! Fermer"
+
+ skonester_auto_appointment_test.1100.back: "@skill_martial_icon! Retour"
+
+ skonester_auto_appointment_test.1200.back: "@skill_martial_icon! Retour"
+
+ skonester_auto_appointment_test.1300.back: "@skill_martial_icon! Retour"
+
+ skonester_child_gen.1000.close: "@cross_icon! Fermer"
+
+ skonester_cnt.3075.back: "@skill_martial_icon! Retour"
+
+ skonester_court_positions.8001.opt_mass_player: "@skill_learning_icon! Nommer tous (votre cour)"
+
+ skonester_court_positions.8001.opt_mass_player_tt: "@skill_learning_icon! Libérez tous les postes de cour de votre domaine, puis réattribuez les courtisans et les vassaux directs selon leurs aptitudes. Les postes du conseil restent inchangés."
+
+ skonester_court_positions.8001.opt_mass_target: "@skill_learning_icon! Nommer tous (cour de la cible)"
+
+ skonester_court_positions.8001.opt_mass_target_tt: "@skill_learning_icon! Effectue la même action sur la cour du dirigeant sélectionné."
+
+ skonester_court_positions.8001.opt_revoke_all: "@skill_learning_icon! Renvoyer tous les titulaires de charges de cour"
+
+ skonester_court_positions.8001.opt_revoke_all_tt: "@skill_learning_icon! Retirez tous les titulaires de chaque poste de cour au sein de la cour de [skonester_pos_reshuffle_liege.GetShortUINamePossessive] sans nouvelle nomination. Les sièges du conseil sont préservés et les postes à plusieurs places seront entièrement vidés."
+
+ skonester_officials.0011.back: "Retour"
+
+ skonester_officials.0011.close: "Fermer"
+
+ skonester_officials.0011.next_page: "Page suivante"
+
+ skonester_officials.0011.opt_administrative: "Gouvernement administratif"
+
+ skonester_officials.0011.opt_administrative_tt: "Nécessite l'extension Roads to Power."
+
+ skonester_officials.0011.opt_celestial: "Gouvernement céleste"
+
+ skonester_officials.0011.opt_celestial_tt: "Nécessite l'extension Tours et Tournois."
+
+ skonester_officials.0011.opt_feudal: "Gouvernement féodal"
+
+ skonester_officials.0011.opt_feudal_tt: "Les capitales tribales, pastorales et nomades seront d'abord converties en châteaux."
+
+ skonester_officials.0011.opt_herder: "Gouvernement pastoral"
+
+ skonester_officials.0011.opt_herder_tt: "Nécessite l'extension Gouvernement pastoral. Si la capitale n'est pas un territoire pastoral, elle sera convertie automatiquement. Distinct du gouvernement de yourte."
+
+ skonester_officials.0011.opt_japan_admin: "Administration ritsuryō"
+
+ skonester_officials.0011.opt_japan_admin_tt: "Nécessite l'extension Tours et Tournois. Doit remplir les conditions du jeu de base pour l'administration japonaise. Les vassaux inéligibles seront ignorés."
+
+ skonester_officials.0011.opt_meritocratic: "Gouvernement méritocratique"
+
+ skonester_officials.0011.opt_meritocratic_tt: "Nécessite l'extension Tours et Tournois."
+
+ skonester_officials.0011.opt_republic: "Gouvernement républicain"
+
+ skonester_officials.0011.opt_republic_tt: "Outil de débogage. Peut ne pas fonctionner correctement dans certains scénarios."
+
+ skonester_officials.0011.opt_steppe_admin: "Gouvernement de yourte"
+
+ skonester_officials.0011.opt_steppe_admin_tt: "Nécessite l'extension Tours et Tournois. Administration des steppes du jeu de base, distincte du gouvernement nomade."
+
+ skonester_officials.0011.opt_theocracy: "Gouvernement théocratique"
+
+ skonester_officials.0011.opt_theocracy_tt: "Théocratie épiscopale du jeu de base. La succession et les charges diffèrent des domaines séculiers. Réservé au débogage."
+
+ skonester_officials.0011.opt_tribal: "Gouvernement tribal"
+
+ skonester_officials.0011.opt_tribal_tt: "Les capitales de type château, cité et église seront d'abord converties en territoires tribaux."
+
+ skonester_officials.0012.prev_page: "Page précédente"
+
+ skonester_officials.0013.opt_gm_baqizhi: "Système des Huit Bannières"
+
+ skonester_officials.0013.opt_gm_baqizhi_tt: "Les capitales tribales, pastorales et nomades seront d'abord converties en châteaux."
+
+ skonester_officials.0013.opt_gm_daiyizhi: "Système de service des Bannières"
+
+ skonester_officials.0013.opt_gm_daiyizhi_tt: "Les capitales tribales, pastorales et nomades seront d'abord converties en châteaux."
+
+ skonester_officials.0013.opt_gm_neige: "Grand Secrétariat"
+
+ skonester_officials.0013.opt_gm_neige_tt: "Ne s'applique qu'à votre propre domaine. Ne peut pas être utilisé sur les vassaux. Les dirigeants possessionnés peuvent toujours convertir. À utiliser avec prudence."
+
+ skonester_officials.0013.opt_gm_pirate: "Gouvernement pirate"
+
+ skonester_officials.0013.opt_gm_pirate_tt: "Les capitales de type château, cité et église seront d'abord converties en territoires tribaux. Correspond aux réglages du mod Great Ming."
+
+ skonester_officials.0013.opt_gm_sansizhi: "Trois offices provinciaux"
+
+ skonester_officials.0013.opt_gm_sansizhi_tt: ""
+
+ skonester_officials.0013.opt_gm_tusizhi: "Système des chefs autochtones"
+
+ skonester_officials.0013.opt_gm_tusizhi_tt: "Les capitales de type château, cité et église seront d'abord converties en territoires tribaux."
+
+ skonester_officials.0013.opt_gm_weisuozhi: "Système de garnison"
+
+ skonester_officials.0013.opt_gm_weisuozhi_tt: "Les capitales tribales, pastorales et nomades seront d'abord converties en châteaux."
+
+ skonester_officials.0013.opt_gm_zhimin: "Système de colonisation"
+
+ skonester_officials.0013.opt_gm_zhimin_tt: "Si la capitale n'est pas un territoire de type cité, elle sera automatiquement convertie en cité."
+
+ skonester_officials.0013.opt_gm_zongfan: "Système des fiefs des parents impériaux"
+
+ skonester_officials.0013.opt_gm_zongfan_tt: "Les capitales tribales, pastorales et nomades seront d'abord converties en châteaux."
+
+ skonester_officials.0013.opt_gm_zuzhi: "Organisation communautaire"
+
+ skonester_officials.0013.opt_gm_zuzhi_tt: "Uniquement pour les personnages sans terres détenant au moins une baronnie. Ne peut pas être appliqué en masse aux vassaux."
+
+ skonester_officials.0013.prev_page: "Précédent (gouvernements du jeu de base)"
+
+ skonester_officials.9040.close: "Fermer"
+
+ skonester_officials.9050.close: "Fermer"
+
+ skonester_officials.9060.close: "@cross_icon! Fermer"
+
+ skonester_officials.9071.back: "Retour"
+
+ skonester_officials.9071.opt_10: "10"
+
+ skonester_officials.9071.opt_100: "100"
+
+ skonester_officials.9071.opt_1000: "1000"
+
+ skonester_officials.9071.opt_50: "50"
+
+ skonester_officials.9071.opt_500: "500"
+
+ skonester_officials.9071.opt_5000: "5000"
+
+ skonester_officials.9071.opt_9999: "9999"
+
+ skonester_officials.9080.close: "Fermer"
+
+ skonester_officials.9081.back: "Retour"
+
+ skonester_officials.9083.back: "Retour"
+
+ skonester_officials.9084.back: "Retour à Population et supervision"
+
+ skonester_officials.9085.back: "Retour à Population et supervision"
+
+ skonester_officials.9087.back: "Retour à Population et supervision"
+
+ skonester_cheat_menu.0015.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0020.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0021.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.002x.back: "@skill_martial_icon! Retour à la liste des ères"
+
+ skonester_cheat_menu.002x.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0080.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.008x.back: "@skill_martial_icon! Retour"
+
+ skonester_cheat_menu.008x.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0097.next_page: "@skill_learning_icon! Page suivante ▶"
+
+ skonester_cheat_menu.0097.prev_page: "@skill_martial_icon! ◀ Page précédente"
+
+ skonester_cheat_menu.00x.back: "@skill_martial_icon! Retour"
+
+ skonester_cheat_menu.00x.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0100.back: "@skill_martial_icon! Retour"
+
+ skonester_cheat_menu.0100.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0101.back: "@skill_martial_icon! Retour"
+
+ skonester_cheat_menu.0101.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0102.back_to_categories: "@skill_learning_icon! Retour aux catégories"
+
+ skonester_cheat_menu.0102.back_to_search: "@skill_learning_icon! Retour aux mots-clés"
+
+ skonester_cheat_menu.0110.page_next: "@skill_learning_icon! Page suivante"
+
+ skonester_cheat_menu.0111.page_prev: "@skill_martial_icon! Page précédente"
+
+ skonester_cheat_menu.0120.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0130.back_to_editor: "@skill_learning_icon! Retour à l'éditeur de culture"
+
+ skonester_cheat_menu.0130.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0140.close: "@cross_icon! Fermer"
+
+ skonester_cheat_menu.0155.opt_gender_dyn: "@skill_learning_icon! [recipient.Custom('skonester_spawn_talent_hub_gender_btn')]"
+
+ skonester_cheat_menu.0171.back_browser: "@skill_learning_icon! Retour au sélecteur de culture régionale"
+
+ skonester_cheat_menu.0171.back_vanilla_toolbar: "@skill_learning_icon! Retour au menu latéral de culture"
+
+ skonester_cheat_menu.0180.back_to_hub: "@skill_learning_icon! Retour aux Beautés et beaux personnages"
+
+ skonester_cheat_menu.0180.opt_culture_dyn: "@piety_icon! [recipient.Custom('skonester_companion_hub_culture_option_line')]"
+
+ skonester_cheat_menu.0180.opt_culture_line_named: "@piety_icon! Culture ([recipient.Var('skonester_companion_stored_culture').GetCulture.GetNameNoTooltip])"
+
+ skonester_cheat_menu.0180.opt_culture_line_placeholder: "@piety_icon! Culture (Cliquez pour ouvrir le menu de culture)"
+
+ skonester_cheat_menu.0180.opt_gender_dyn: "@skill_learning_icon! [recipient.Custom('skonester_companion_hub_gender_btn')]"
+
+ skonester_cheat_menu.0180.opt_spawn_now: "@dynasty_icon! Générer maintenant"
+
+ skonester_cheat_menu.0185.back_hub: "@skill_martial_icon! Retour"
+
+ skonester_cheat_menu.0288.back_main: "@skill_martial_icon! Retour aux catégories principales"
+
+ skonester_cheat_menu.1420.back_groups: "@skill_learning_icon! Retour à la liste des héritages"
+
+ skonester_cheat_menu.2900.back_select: "@skill_learning_icon! Resélectionner la culture"
+
+ skonester_cheat_menu.3080.back_main: "@skill_martial_icon! Retour à la gestion militaire"
+
+ skonester_cheat_menu.3080.close: "@cross_icon! Fermer le menu"
+
+ skonester_cheat_menu.3080.opt_elite_maa: "@soldier_icon! Ajouter des hommes d'armes d'élite"
+
+ skonester_cheat_menu.3080.opt_elite_maa_tt: "@soldier_icon! Ajoute des hommes d'armes de premier rang : infanterie lourde, cavalerie lourde, archers à cheval, éléphants de guerre et arbalétriers."
+
+ skonester_cheat_menu.3080.opt_expand_maa: "@soldier_icon! @army_quality_icon_4! Développer les armées"
+
+ skonester_cheat_menu.3080.opt_expand_maa_tt: "@soldier_icon! Tous les régiments d'hommes d'armes existants de [skonester_cheat_menu_target.GetShortUIName] gagnent +5 unités et sont entièrement reconstitués. Réutilisable."
+
+ skonester_cheat_menu.3080.opt_god_mode: "@advantage_icon! Mode dieu de l'armée"
+
+ skonester_cheat_menu.3080.opt_god_mode_tt: "@advantage_icon! Pertes quasi nulles et avantage au combat écrasant. Vitesse de marche maximale ; aucune pénalité pour l'hiver, les raids, l'embarquement ou les traversées de rivières. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3080.opt_instant_replenish: "@supply_icon! Ravitaillement infini · Aucune perte"
+
+ skonester_cheat_menu.3080.opt_instant_replenish_tt: "@supply_icon! Ne modifie pas le nombre de troupes. Capacité de ravitaillement massive avec un épuisement minimal. En guerre, toutes les armées sont entièrement reconstituées tous les 7 jours et chaque mois. Entretien et attrition quasi nuls. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3080.opt_knights_accolades: "@soldier_icon! Chevaliers et distinctions"
+
+ skonester_cheat_menu.3080.opt_knights_accolades_tt: "@soldier_icon! Gérez les chevaliers et les distinctions de [skonester_cheat_menu_target.GetShortUIName]. Inclut l'interface de création de distinctions du jeu de base."
+
+ skonester_cheat_menu.3080.opt_levy_multiplier: "@gold_icon! Levées illimitées et entretien gratuit"
+
+ skonester_cheat_menu.3080.opt_levy_multiplier_tt: "@gold_icon! Taille des levées multipliée par 100, plafond d'hommes d'armes augmenté. Les troupes non levées ne coûtent pas d'or chaque mois. Cumule trois effets d'entretien nul, réinitialisé chaque mois. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3080.opt_raise_levies: "@soldier_icon! Lever toutes les levées"
+
+ skonester_cheat_menu.3080.opt_raise_levies_tt: "@soldier_icon! Lève instantanément toutes les levées à pleine puissance dans votre capitale ou votre position actuelle."
+
+ skonester_cheat_menu.3080.opt_sand_soldiers: "@soldier_icon! Invoquer des hommes d'armes"
+
+ skonester_cheat_menu.3080.opt_sand_soldiers_tt: "@soldier_icon! Ouvre la fenêtre d'invocation d'hommes d'armes. Fermez pour revenir."
+
+ skonester_cheat_menu.3080.opt_submenu_army_buff: "@skill_learning_icon! @army_quality_icon_5! Bonus d'armée"
+
+ skonester_cheat_menu.3080.opt_submenu_army_buff_tt: "@skill_learning_icon! Bascule le ravitaillement infini, les levées illimitées et le mode dieu de l'armée. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3080.opt_submenu_levies_maa: "@skill_learning_icon! Levées et hommes d'armes"
+
+ skonester_cheat_menu.3080.opt_submenu_levies_maa_tt: "@skill_learning_icon! Lève toutes les levées, ajoute des unités d'élite et développe les régiments existants."
+
+ skonester_cheat_menu.3081.back_elite: "@skill_martial_icon! Retour aux unités d'élite"
+
+ skonester_cheat_menu.3081.opt_all: "@command_modifier_icon! @army_quality_icon_5! Ajouter les cinq types"
+
+ skonester_cheat_menu.3081.opt_all_tt: "@command_modifier_icon! Invoque les cinq hommes d'armes d'élite en une fois."
+
+ skonester_cheat_menu.3081.opt_crossbowmen: "@heavy_infantry_icon! Arbalétriers"
+
+ skonester_cheat_menu.3081.opt_crossbowmen_tt: "@heavy_infantry_icon! Ajoute des unités d'arbalétriers."
+
+ skonester_cheat_menu.3081.opt_heavy_cavalry: "@heavy_infantry_icon! Cavalerie lourde"
+
+ skonester_cheat_menu.3081.opt_heavy_cavalry_tt: "@heavy_infantry_icon! Ajoute des troupes montées blindées."
+
+ skonester_cheat_menu.3081.opt_heavy_infantry: "@heavy_infantry_icon! Infanterie lourde"
+
+ skonester_cheat_menu.3081.opt_heavy_infantry_tt: "@heavy_infantry_icon! Ajoute des fantassins blindés."
+
+ skonester_cheat_menu.3081.opt_horse_archers: "@heavy_infantry_icon! Archers à cheval"
+
+ skonester_cheat_menu.3081.opt_horse_archers_tt: "@heavy_infantry_icon! Ajoute des archers montés."
+
+ skonester_cheat_menu.3081.opt_more_maa: "@skill_learning_icon! Plus de types d'unités…"
+
+ skonester_cheat_menu.3081.opt_more_maa_tt: "@skill_learning_icon! Invoque des éléphants de guerre, des arbalétriers ou toutes les unités d'élite en un clic."
+
+ skonester_cheat_menu.3081.opt_war_elephants: "@heavy_infantry_icon! Éléphants de guerre"
+
+ skonester_cheat_menu.3081.opt_war_elephants_tt: "@heavy_infantry_icon! Ajoute des unités d'éléphants de guerre."
+
+ skonester_cheat_menu.3083.back_hub: "@skill_martial_icon! Retour aux chevaliers et distinctions"
+
+ skonester_cheat_menu.3083.opt_create_accolade: "@knight_icon! Créer une distinction"
+
+ skonester_cheat_menu.3083.opt_create_accolade_tt: "@knight_icon! Ouvre la fenêtre de création de distinction du jeu de base pour [skonester_cheat_menu_target.GetShortUIName]. Sélectionnez un emplacement, un chevalier et un type. Nécessite l'extension Tours et Tournois."
+
+ skonester_cheat_menu.3083.opt_fill_knights: "@soldier_icon! Remplir la liste des chevaliers"
+
+ skonester_cheat_menu.3083.opt_fill_knights_tt: "@soldier_icon! Accorde le statut de chevalier aux courtisans et invités éligibles ayant au moins 8 de Hardiesse jusqu'à ce que la liste soit pleine."
+
+ skonester_cheat_menu.3083.opt_glory_boost: "@knight_icon! Bonus de gain de gloire (activer/désactiver)"
+
+ skonester_cheat_menu.3083.opt_glory_boost_tt: "@knight_icon! Accélère le gain de gloire et la progression des attributs des distinctions. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3083.opt_knight_limit: "@soldier_icon! +10 de capacité de chevaliers (activer/désactiver)"
+
+ skonester_cheat_menu.3083.opt_knight_limit_tt: "@soldier_icon! Augmentation cumulable de la limite maximale de chevaliers. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3083.opt_knight_power: "@soldier_icon! Bonus de combat des chevaliers (activer/désactiver)"
+
+ skonester_cheat_menu.3083.opt_knight_power_tt: "@soldier_icon! Améliore l'efficacité au combat de tous les chevaliers. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3083.opt_knight_prowess: "@soldier_icon! Tous les chevaliers +3 Hardiesse"
+
+ skonester_cheat_menu.3083.opt_knight_prowess_tt: "@soldier_icon! Accorde +3 de Hardiesse à chaque chevalier actif."
+
+ skonester_cheat_menu.3083.opt_max_glory: "@knight_icon! Maximiser la gloire de toutes les distinctions"
+
+ skonester_cheat_menu.3083.opt_max_glory_tt: "@knight_icon! Remplit entièrement la jauge de gloire de toutes les distinctions. Peut être utilisé à répétition."
+
+ skonester_cheat_menu.3083.opt_submenu_accolades: "@skill_learning_icon! Distinctions"
+
+ skonester_cheat_menu.3083.opt_submenu_accolades_tt: "@skill_learning_icon! Créez des distinctions, augmentez la gloire et débloquez les innovations de chevalerie."
+
+ skonester_cheat_menu.3083.opt_submenu_knights: "@skill_learning_icon! Liste des chevaliers"
+
+ skonester_cheat_menu.3083.opt_submenu_knights_tt: "@skill_learning_icon! Remplissez la liste, augmentez la limite et boostez les statistiques de combat des chevaliers."
+
+ skonester_cheat_menu.3083.opt_unlock_innovation: "@piety_icon! Débloquer l'innovation de chevalerie"
+
+ skonester_cheat_menu.3083.opt_unlock_innovation_tt: "@piety_icon! Débloque l'innovation de chevalerie pour la culture cible afin d'obtenir un emplacement de distinction supplémentaire, s'il manque."
+
+ skonester_cheat_menu.3085.back_levies: "@skill_martial_icon! Retour aux levées et hommes d'armes"
+
+ skonester_cheat_menu.3088.opt_beauty: "@dynasty_icon! Beautés et beaux personnages"
+
+ skonester_cheat_menu.3088.opt_children: "@dynasty_icon! Invoquer des enfants"
+
+ skonester_cheat_menu.3088.opt_spawn_talent: "@dynasty_icon! Invoquer des courtisans"
+
+ skonester_cheat_menu.3091.back: "@skill_martial_icon! Retour au centre des activités"
+
+ skonester_cheat_menu.3091.opt_cancel: "@skull_icon! Annuler l'activité"
+
+ skonester_cheat_menu.3091.opt_cancel_tt: "@skull_icon! Met fin à l'activité en cours."
+
+ skonester_cheat_menu.3091.opt_complete: "@skill_learning_icon! Terminer l'activité instantanément"
+
+ skonester_cheat_menu.3091.opt_complete_tt: "@skill_learning_icon! Achève immédiatement l'activité en cours."
+
+ skonester_cheat_menu.3091.opt_fast_phase: "@skill_learning_icon! Avancer la phase (1 jour)"
+
+ skonester_cheat_menu.3091.opt_fast_phase_tt: "@skill_learning_icon! Avance la phase de l'activité de 1 jour."
+
+ skonester_cheat_menu.3091.opt_host_entertainment: "@prestige_icon! Organiser des événements de divertissement"
+
+ skonester_cheat_menu.3091.opt_host_entertainment_tt: "@prestige_icon! Festins, chasses, tournois, fêtes de camp, festivals, rencontres, randonnées et courses de chars."
+
+ skonester_cheat_menu.3091.opt_host_more: "@prestige_icon! Organiser de grands événements"
+
+ skonester_cheat_menu.3091.opt_host_more_tt: "@prestige_icon! Tournées royales, mariages, pèlerinages, couronnements, débats, examens, rituels et funérailles."
+
+ skonester_cheat_menu.3091.opt_skip_phase: "@skill_learning_icon! Passer la phase actuelle"
+
+ skonester_cheat_menu.3091.opt_skip_phase_tt: "@skill_learning_icon! Passe la phase en cours de toute activité active."
+
+ skonester_cheat_menu.3091.opt_toggle_skip_cost: "@skill_learning_icon! Activer/désactiver la suppression du coût des festins"
+
+ skonester_cheat_menu.3091.opt_toggle_skip_cost_tt: "@skill_learning_icon! Supprime tous les coûts lors de l'organisation de festins et injecte des ressources supplémentaires. Cliquez à nouveau pour désactiver."
+
+ skonester_cheat_menu.3092.opt_camp_party: "@skill_learning_icon! Fête de camp"
+
+ skonester_cheat_menu.3092.opt_chariot_race: "@skill_learning_icon! Course de chars"
+
+ skonester_cheat_menu.3092.opt_chariot_race_tt: "@skill_learning_icon! Nécessite l'extension Roads to Power et une culture qui prend en charge les courses de chars. Peut échouer selon le rang."
+
+ skonester_cheat_menu.3092.opt_feast: "@prestige_icon! Festin"
+
+ skonester_cheat_menu.3092.opt_festival: "@skill_learning_icon! Festival"
+
+ skonester_cheat_menu.3092.opt_hike: "@skill_learning_icon! Randonnée"
+
+ skonester_cheat_menu.3092.opt_host_tt: "@prestige_icon! Accorde des ressources et force l'organisation. Certains événements nécessitent une extension spécifique ou les règles du jeu de base."
+
+ skonester_cheat_menu.3092.opt_hunt: "@skill_learning_icon! Chasse"
+
+ skonester_cheat_menu.3092.opt_playdate: "@prestige_icon! Rencontre"
+
+ skonester_cheat_menu.3092.opt_tournament: "@skill_learning_icon! Tournoi"
+
+ skonester_cheat_menu.3093.opt_craft: "@artifact_icon! Fabriquer un artefact"
+
+ skonester_cheat_menu.3093.opt_durability: "@artifact_icon! Restaurer la durabilité complète"
+
+ skonester_cheat_menu.3093.opt_durability_tt: "@artifact_icon! Répare entièrement tous les artefacts de l'inventaire et de la vitrine de cour. La qualité et les modificateurs restent inchangés."
+
+ skonester_cheat_menu.3093.opt_modify: "@skill_learning_icon! Modifier l'artefact"
+
+ skonester_cheat_menu.3093.opt_modify_tt: "@skill_learning_icon! Sélectionnez un artefact pour modifier son nom, sa description, sa qualité et ses modificateurs."
+
+ skonester_cheat_menu.3093.opt_steal: "@scheme_icon! Voler un artefact"
+
+ skonester_cheat_menu.3095.opt_clear_external: "@skill_learning_icon! Effacer les effets externes du domaine"
+
+ skonester_cheat_menu.3095.opt_preset_balanced: "@skill_learning_icon! Configuration équilibrée du domaine"
+
+ skonester_cheat_menu.3095.opt_preset_economy: "@gold_icon! Configuration du domaine axée sur la richesse"
+
+ skonester_cheat_menu.3095.opt_preset_military: "@soldier_icon! Configuration du domaine axée sur le militaire"
+
+ skonester_cheat_menu.3097.opt_coronation: "@prestige_icon! Couronnement"
+
+ skonester_cheat_menu.3097.opt_debate: "@skill_learning_icon! Débat savant"
+
+ skonester_cheat_menu.3097.opt_funeral: "@skill_learning_icon! Funérailles royales"
+
+ skonester_cheat_menu.3097.opt_gruesome: "@skill_learning_icon! Festival sanglant"
+
+ skonester_cheat_menu.3097.opt_imperial_exam: "@skill_learning_icon! Examen impérial"
+
+ skonester_cheat_menu.3097.opt_inspection: "@skill_learning_icon! Inspection royale"
+
+ skonester_cheat_menu.3097.opt_local_exam: "@skill_learning_icon! Examen régional"
+
+ skonester_cheat_menu.3097.opt_monument: "@skill_learning_icon! Expédition au monument"
+
+ skonester_cheat_menu.3097.opt_pilgrimage: "@prestige_icon! Pèlerinage"
+
+ skonester_cheat_menu.3097.opt_tour: "@skill_learning_icon! Tournée royale"
+
+ skonester_cheat_menu.3097.opt_university: "@skill_learning_icon! Visite de l'université"
+
+ skonester_cheat_menu.3097.opt_wedding: "@prestige_icon! Mariage royal"
+
+ skonester_cheat_menu.3097.opt_witch_ritual: "@skill_learning_icon! Rituel de sorcière"
+
+ skonester_cheat_menu.craft_mod_next_page: "@skill_learning_icon! Page suivante"
+
+ skonester_cheat_menu.craft_mod_prev_page: "@skill_martial_icon! Page précédente"
+
+ skonester_cheat_menu.page_next: "@skill_learning_icon! Suivant"
+
+ skonester_cheat_menu.page_prev: "@skill_martial_icon! Précédent"
+
+ skonester_treasure_maker.0001.close: "Fermer"
+
+ skonester_treasure_maker.back_hub: "Retour au centre"
+

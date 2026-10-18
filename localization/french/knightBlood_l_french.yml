@@ -1,0 +1,76 @@
+﻿l_french:
+ # --- Base Traits ---
+ trait_blood_ancester:0 "Ascendance latente"
+ trait_blood_knight:0 "Potentiel de chevalier de sang"
+
+ # --- Cat (Agility/Balance) ---
+ trait_blood_ancester_1:0 "Instincts félins"
+ trait_blood_ancester_1_desc:0 "Ce personnage est né avec l'équilibre troublant et les réflexes de prédateur d'un grand félin. C'est un héritage biologique qui se manifeste dans chacun de ses mouvements gracieux."
+ trait_blood_ancester_1_character_desc:0 "Depuis sa naissance, [ROOT.GetCharacter.GetFirstNameNoTooltip] possède la grâce fluide et les instincts acérés d'un prédateur, un héritage inscrit jusque dans ses os."
+
+ # --- Dog (Loyalty/Tenacity) ---
+ trait_blood_ancester_2:0 "Dévotion du limier"
+ trait_blood_ancester_2_desc:0 "Un instinct profond de loyauté et de protection est ancré dans la nature de ce personnage. Il possède une affinité naturelle pour la cohésion du groupe et une persévérance inébranlable."
+ trait_blood_ancester_2_character_desc:0 "Le sang d'un gardien légendaire coule dans les veines de [ROOT.GetCharacter.GetFirstNameNoTooltip], se manifestant par une loyauté innée et inébranlable envers sa meute et ses proches."
+
+ # --- Moon (Clarity/Perception) ---
+ trait_blood_ancester_4:0 "Lucideur lunaire"
+ trait_blood_ancester_4_desc:0 "Né sous une résonance lunaire particulière, ce personnage possède un esprit d'une clarté cristalline. Ses pensées sont aussi acérées et froides que la lumière des étoiles, sans nuage que les distractions communes."
+ trait_blood_ancester_4_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] porte la marque de la lune au fond de son esprit, lui conférant une clarté innée et un esprit calme et calculateur."
+
+ # --- Wind (Swiftness/Endurance) ---
+ trait_blood_ancester_7:0 "Sang de marcheur des bourrasques"
+ trait_blood_ancester_7_desc:0 "Ce personnage possède une silhouette exceptionnellement légère et un métabolisme conçu pour des poussées de vitesse extrême. Il semble se mouvoir avec l'élan sans effort du vent lui-même."
+ trait_blood_ancester_7_character_desc:0 "L'essence de la tempête fait partie de la physiologie de [ROOT.GetCharacter.GetFirstNameNoTooltip], lui conférant une rapidité naturelle qui laisse les autres loin derrière."
+
+ # --- Boar (Brutality/Strength) ---
+ trait_blood_ancester_5:0 "Vigueur de cœur de sanglier"
+ trait_blood_ancester_5_desc:0 "Une prédisposition congénitale à la masse physique et à l'adrénaline agressive. Le corps de ce personnage est bâti pour la charge, doté d'une résistance à toute épreuve à la douleur."
+ trait_blood_ancester_5_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est né avec une force primitive et implacable—un héritage physique qui alimente son élan irrésistible sur le champ de bataille."
+
+ # --- Darkness (Subtlety/Stealth) ---
+ trait_blood_ancester_6:0 "Veines d'ombre"
+ trait_blood_ancester_6_desc:0 "La physiologie de ce personnage est naturellement adaptée à l'obscurité. Ses mouvements sont silencieux, et sa présence semble se fondre dans les ombres même en plein jour."
+ trait_blood_ancester_6_character_desc:0 "L'ombre n'est pas qu'un outil pour [ROOT.GetCharacter.GetFirstNameNoTooltip], mais une part de sa nature. Sa simple présence paraît étouffée, comme si la lumière elle-même évitait sa peau."
+
+ # --- Venus/Hope (Radiance/Charisma) ---
+ trait_blood_ancester_8:0 "Aura d'étoile du matin"
+ trait_blood_ancester_8_desc:0 "Ce personnage dégage un éclat inné qui inspire l'espoir chez les autres. Ce magnétisme congénital en fait un point de ralliement naturel pour le moral et la résilience."
+ trait_blood_ancester_8_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] possède un esprit naturel et lumineux qui attire les autres à lui, agissant comme un phare vivant d'endurance et de détermination."
+
+ # --- Clown/Jester (Ingenuity/Chaos) ---
+ trait_blood_ancester_9:0 "L'étincelle du filou"
+ trait_blood_ancester_9_desc:0 "Une prédisposition neurologique à la pensée latérale et à la gymnastique du langage. Ce personnage perçoit l'absurde en toute chose, ce qui le rend aussi imprévisible qu'il est habile."
+ trait_blood_ancester_9_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est né avec un esprit qui danse au bord du chaos, doté d'une intelligence innée capable de démonter la plus rigide des logiques."
+
+ # --- Raven (Intuition/Wisdom) ---
+ trait_blood_ancester_10:0 "Sens de la charogne"
+ trait_blood_ancester_10_desc:0 "Ce personnage possède une intuition aiguë, presque surnaturelle, de la mortalité et du changement. Il pressent l'arrivée du désastre avec l'instinct d'un charognard."
+ trait_blood_ancester_10_character_desc:0 "Une sagesse ancienne et vigilante réside en [ROOT.GetCharacter.GetFirstNameNoTooltip]. Il est né avec l'œil du corbeau, percevant les schémas de mort et de renaissance là où d'autres ne voient que ruine."
+
+ # --- Dragon (Power/Majesty) ---
+ trait_blood_ancester_11:0 "Puissance draconique"
+ trait_blood_ancester_11_desc:0 "Le sang du personnage bouillonne d'un pouvoir ancien. Il possède une résistance naturelle à la chaleur et une présence physique qui impose une soumission immédiate et instinctive."
+ trait_blood_ancester_11_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] porte le lourd héritage couvant du dragon. Son sang même semble vibrer d'une chaleur primitive et ancienne."
+
+ # --- Special Arts (Instinctive Mastery) ---
+ trait_blood_art_1:0 "Flux inné"
+ trait_blood_art_1_desc:0 "Alors que la plupart doivent s'entraîner des années, ce personnage est né avec une compréhension naturelle de l'harmonie corporelle. Ses mouvements suivent une logique parfaite et fluide qui reflète les plus hauts arts martiaux."
+ trait_blood_art_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] possède une maîtrise instinctive de sa propre forme physique, se mouvant avec une précision centrée qui semble entièrement sans effort."
+
+ # --- Knight Ranks (Manifestation Stages) ---
+ trait_blood_knight_1:0 "Sang éveillé"
+ trait_blood_knight_1_desc:0 "Le potentiel dormant dans le sang de ce personnage a commencé à se manifester, lui accordant les premiers bienfaits physiques et mentaux de sa lignée."
+ trait_blood_knight_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a commencé à puiser dans la puissance ancestrale de ses veines, marquant la première étape de l'éveil de son sang."
+
+ trait_blood_knight_2:0 "Lignée résonante"
+ trait_blood_knight_2_desc:0 "Les marqueurs ancestraux du personnage se sont pleinement intégrés à sa physiologie. Il est devenu un véritable conduit pour la puissance de sa lignée."
+ trait_blood_knight_2_character_desc:0 "Le sang qui coule en [ROOT.GetCharacter.GetFirstNameNoTooltip] bat désormais d'une puissante résonance, lui conférant la force et le statut d'un rejeton éprouvé."
+
+ trait_blood_knight_3:0 "Sang dominant"
+ trait_blood_knight_3_desc:0 "La lignée du personnage est devenue la force dominante de son être. Chaque fibre de son corps est renforcée par le pouvoir ancien qu'il porte."
+ trait_blood_knight_3_character_desc:0 "Sa lignée étant totalement en ascendant, [ROOT.GetCharacter.GetFirstNameNoTooltip] a atteint un niveau de puissance que peu de mortels peuvent espérer hériter."
+
+ trait_blood_knight_4:0 "Héritage vivant"
+ trait_blood_knight_4_desc:0 "Ce personnage est l'expression biologique parfaite de sa lignée. Il n'est plus seulement un descendant, mais l'incarnation vivante de la puissance de son ancêtre."
+ trait_blood_knight_4_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] se dresse comme le sommet de sa lignée—une manifestation parfaite et terrifiante de la puissance ancestrale faite chair."

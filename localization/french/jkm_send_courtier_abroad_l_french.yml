@@ -1,0 +1,5 @@
+﻿l_french:
+  jkm_send_courtier_interaction:0 "Envoyer un courtisan"
+  jkm_send_courtier_interaction_desc:0 "Envoyez un courtisan à la cour de [recipient.GetShortUIName]"
+  actor_secondary_jkm_send_courtier_interaction:0 "Courtisan"
+  jkm_send_courtier_interaction_notification:0 "Courtisan envoyé"

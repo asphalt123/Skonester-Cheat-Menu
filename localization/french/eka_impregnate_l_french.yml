@@ -1,0 +1,19 @@
+﻿l_french:
+ eka_impregnate_female_inter: "Option d'imprégnation 1"
+ eka_impregnate_male_inter: "Option d'imprégnation 3"
+ eka_impregnate_me_inter: "Être imprégnée"
+ eka_impregnate_concubine_inter: "Option d'imprégnation 2"
+
+ flag_spouse_boy: "Le conjoint désire un fils"
+ flag_spouse_girl: "Le conjoint désire une fille"
+ flag_my_boy: "Je désire un fils"
+ flag_my_girl: "Je désire une fille"
+
+ flag_spouse_boy_confirm: "Le conjoint aura un fils"
+ flag_spouse_girl_confirm: "Le conjoint aura une fille"
+ flag_my_boy_confirm: "J'aurai un fils"
+ flag_my_girl_confirm: "J'aurai une fille"
+
+ flag_pregnancy_boy: "Enceinte d'un fils"
+ flag_pregnancy_girl: "Enceinte d'une fille"
+

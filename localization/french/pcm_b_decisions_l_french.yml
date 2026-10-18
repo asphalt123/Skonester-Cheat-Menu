@@ -1,0 +1,26 @@
+﻿l_french:
+ #PCM – Skonester Edition
+ pcm_b_max_all_buildings_sub_realm_decision_title:0 "#Skonester Décrets :#! Élever tous les territoires à leur pleine gloire"
+ pcm_b_max_all_buildings_sub_realm_decision_desc:0 "Ordonnez que chaque salle, donjon et territoire soit élevé à sa force et à sa splendeur maximales."
+ pcm_b_max_all_buildings_sub_realm_decision_tooltip:0 ""
+ pcm_b_max_all_buildings_sub_realm_decision_ct:0 "Convoquez maçons, charpentiers et forgerons pour parfaire tous les ouvrages de pierre et de bois."
+
+ pcm_b_add_building_slot_7_sub_realm_decision_title:0 "#Skonester Décrets :#! Accorder de nouveaux terrains à bâtir"
+ pcm_b_add_building_slot_7_sub_realm_decision_desc:0 "Chacun de vos domaines sera doté d'un terrain libre, afin que sept puissantes structures puissent y être érigées."
+ pcm_b_add_building_slot_7_sub_realm_decision_tooltip:0 ""
+ pcm_b_add_building_slot_7_sub_realm_decision_ct:0 "Que de nouvelles chaumières, salles et tours s'élèvent sur chaque terre que je possède !"
+
+ pcm_b_lucky_7_sub_realm_decision_title:0 "#Skonester Décrets :#! Les sept œuvres bénies"
+ pcm_b_lucky_7_sub_realm_decision_desc:0 "Tous vos territoires recevront chaque structure digne de ce nom élevée à sa forme suprême. (Les édifices spéciaux et ducaux ne sont pas inclus.) Il est #underline sage#! d'accorder d'abord un terrain neuf pour construire des bâtiments."
+ pcm_b_lucky_7_sub_realm_decision_tooltip:0 ""
+ pcm_b_lucky_7_sub_realm_decision_ct:0 "Que tous les ouvrages soient bâtis à la hâte, comme guidés par la divine providence !"
+
+ pcm_b_show_decision_title:0 "--= #Skonester:#! Révéler l'art gnostique =--"
+ pcm_b_show_decision_desc:0 "Dévoilez tous les édits de Skonester concernant l'art de bâtir des structures."
+ pcm_b_show_decision_tooltip:0 ""
+ pcm_b_show_decision_ct:0 "Qu'il en soit ainsi — que les décrets cachés soient révélés."
+
+ pcm_b_hide_decision_title:0 "--= #Skonester:#! Dissimuler l'art gnostique =--"
+ pcm_b_hide_decision_desc:0 "Dissimulez les décrets de Skonester relatifs aux arts de la construction."
+ pcm_b_hide_decision_tooltip:0 ""
+ pcm_b_hide_decision_ct:0 "Scellez les parchemins et préservez le savoir des regards errants."

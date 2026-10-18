@@ -1,0 +1,21 @@
+﻿l_french:
+ # Culture Groups
+ japonic_group:0 "Japonique"
+ ainuic_group:0 "Aïnou"
+ korean_group:0 "Coréen"
+ buyeo_group:0 "Buyeo"
+ viet_group:0 "Viêt"
+ mon_khmer_group:0 "Mon-khmer"
+ tai_group:0 "Taï"
+ austronesian_group:0 "Austronésien"
+ hmongic_group:0 "Hmong"
+ bantu_group:0 "Bantou"
+ amuric_group:0 "Amurique"
+ tungusic_group:0 "Toungouse"
+ caucasian_group:0 "Caucasien"
+ vlach_group:0 "Valaque"
+ syriac_group:0 "Syriaque"
+ # Dragon Birth
+ dp_char_editor.dragon_birth:0 "Naissance de dragon/AGOT"
+ dp_char_editor.dragon_birth.t:0 "Traits de naissance de dragon"
+ dp_char_editor.dragon_birth.d:0 "Sélectionnez les traits de naissance et de physique liés aux dragons mythiques pour votre personnage."

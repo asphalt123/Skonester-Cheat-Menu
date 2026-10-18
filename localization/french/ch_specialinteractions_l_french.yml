@@ -1,0 +1,89 @@
+﻿l_french:
+ ### --- CH Convert Holding Decisions ---
+ NOT_I_HAVE_CH_BARONY_SELECTED:1 "Vous n'avez #bold pas#! sélectionné une Baronnie"
+ CH_CONVERT_HOLDING_DECISION_NAME_LABEL:0 "Nom :"
+ CH_CONVERT_HOLDING_DECISION_CAPITAL_LABEL:0 "Territoire :"
+ REVOKE_CH_CONVERT_HOLDING_DECISION_BARONY_LABEL:0 "Comté :"
+ CH_CONVERT_HOLDING_DECISION_CHANGE_CAPITAL:1 "Changer de territoire"
+ CH_CONVERT_HOLDING_DECISION_SELECT_CAPITAL:1 "Sélectionner un territoire"
+ CH_SELECT_HOLDING_TITLE:1 "Sélectionner un territoire"
+ CH_SELECT_HOLDING_NO_TITLES:0 "Aucun territoire disponible"
+ CH_SELECT_HOLDING_TOOLTIP:0 "#T [Select_CString( DecisionViewWidgetSelectBarony.HasValidTitles, '$CH_SELECT_HOLDING_TITLE|q$', '$CH_SELECT_HOLDING_NO_TITLES|q$' )] #!"
+ CH_SELECT_HOLDING_CONFIRM:0 "Sélectionner"
+
+ ch_convert_holding_to_castle_decision:0 "Convertir le territoire en Château"
+ ch_convert_holding_to_castle_decision_tooltip:0 "Le ou les territoires existants seront remplacés par un territoire [castle|E]"
+ ch_convert_holding_to_castle_decision_desc:0 "#F Des architectes et des ingénieurs se rassemblent dans mon domaine ces derniers temps. Beaucoup sont recherchés comme maîtres bâtisseurs, mais pour prouver leur talent, ils veulent de grands projets à réaliser.#!"
+ ch_convert_holding_to_castle_decision_confirm:0 "Convertir le territoire en Château"
+ I_HAVE_CH_ELIGBLE_BARONIES_TO_CASTLE_COUNTY:1 "Vous avez une [barony|E] avec un [holding|E] pouvant être converti en [castle|E]\n$EFFECT_LIST_BULLET$Seuls les territoires des [counties|E] dont vous êtes personnellement le [holder|E] sont éligibles\n$EFFECT_LIST_BULLET$Les territoires avec des constructions en cours ne sont #bold pas#! éligibles\n$EFFECT_LIST_BULLET$Malgré ce que peut vous dire la fenêtre Sélectionner un territoire, vous #bold pouvez#! bel et bien sélectionner une [county_capital|E]\n$EFFECT_LIST_BULLET$Si vous convertissez un [temple|E], vous devrez peut-être attendre que votre [realm_priest|E] abandonne automatiquement le [holding|E]"
+
+ ch_convert_holding_to_city_decision:0 "Convertir le territoire en Ville"
+ ch_convert_holding_to_city_decision_tooltip:0 "Le ou les territoires existants seront remplacés par un territoire [city|E]"
+ ch_convert_holding_to_city_decision_desc:0 "#F Des architectes et des ingénieurs se rassemblent dans mon domaine ces derniers temps. Beaucoup sont recherchés comme maîtres bâtisseurs, mais pour prouver leur talent, ils veulent de grands projets à réaliser.#!"
+ ch_convert_holding_to_city_decision_confirm:0 "Convertir le territoire en Ville"
+ I_HAVE_CH_ELIGBLE_BARONIES_TO_CITY_COUNTY:1 "Vous avez une [barony|E] avec un [holding|E] pouvant être converti en [city|E]\n$EFFECT_LIST_BULLET$Seuls les territoires des [counties|E] dont vous êtes personnellement le [holder|E] sont éligibles\n$EFFECT_LIST_BULLET$Les territoires avec des constructions en cours ne sont #bold pas#! éligibles\n$EFFECT_LIST_BULLET$Malgré ce que peut vous dire la fenêtre Sélectionner un territoire, vous #bold pouvez#! bel et bien sélectionner une [county_capital|E]\n$EFFECT_LIST_BULLET$Si vous convertissez un [temple|E], vous devrez peut-être attendre que votre [realm_priest|E] abandonne automatiquement le [holding|E]"
+
+ ch_convert_holding_to_temple_decision:0 "Convertir le territoire en Temple"
+ ch_convert_holding_to_temple_decision_tooltip:0 "Le ou les territoires existants seront remplacés par un territoire [temple|E]"
+ ch_convert_holding_to_temple_decision_desc:0 "#F Des architectes et des ingénieurs se rassemblent dans mon domaine ces derniers temps. Beaucoup sont recherchés comme maîtres bâtisseurs, mais pour prouver leur talent, ils veulent de grands projets à réaliser.#!"
+ ch_convert_holding_to_temple_decision_confirm:0 "Convertir le territoire en Temple"
+ I_HAVE_CH_ELIGBLE_BARONIES_TO_TEMPLE_COUNTY:1 "Vous avez une [barony|E] avec un [holding|E] pouvant être converti en [temple|E]\n$EFFECT_LIST_BULLET$Seuls les territoires des [counties|E] dont vous êtes personnellement le [holder|E] sont éligibles\n$EFFECT_LIST_BULLET$Les territoires avec des constructions en cours ne sont #bold pas#! éligibles\n$EFFECT_LIST_BULLET$Malgré ce que peut vous dire la fenêtre Sélectionner un territoire, vous #bold pouvez#! bel et bien sélectionner une [county_capital|E]"
+
+### CONVERT TO NOMAD
+ ch_convert_holding_to_nomad_decision:0 "Convertir le territoire en Camp nomade"
+ ch_convert_holding_to_nomad_decision_tooltip:0 "Le ou les territoires existants seront remplacés par une installation [nomad_holding|E]"
+ ch_convert_holding_to_nomad_title:0 "Convertir le territoire en Camp nomade" 
+ ch_convert_holding_to_nomad_tt:0 "Convertit le territoire principal d'une baronnie." 
+ ch_convert_holding_to_nomad_desc:0 "#F Les besoins du peuple ont changé, imposant une mutation de la fonction première de cette installation. Une nouvelle méthode de construction privilégiera la mobilité et la prouesse militaire.#!"
+ ch_convert_holding_to_nomad_decision_confirm:0 "Convertir le territoire en nomade"
+ ch_convert_holding_to_nomad_decision_effect_message:0 "Le territoire a été converti en Camp nomade."
+ has_ch_eligble_barony_to_nomad_in_county:1 "Vous avez une [barony|E] avec un [holding|E] pouvant être converti en Installation nomade\n$EFFECT_LIST_BULLET$Seuls les territoires des [counties|E] dont vous êtes personnellement le [holder|E] sont éligibles\n$EFFECT_LIST_BULLET$Les territoires avec des constructions en cours ne sont #bold pas#! éligibles\n$EFFECT_LIST_BULLET$Malgré ce que peut vous dire la fenêtre Sélectionner un territoire, vous #bold pouvez#! bel et bien sélectionner une [county_capital|E]"
+
+# ---
+
+### CONVERT TO TRIBAL
+ ch_convert_holding_to_tribal_decision:0 "Convertir le territoire en Installation tribale"
+ ch_convert_holding_to_tribal_decision_tooltip:0 "Le ou les territoires existants seront remplacés par une installation [tribal_holding|E]"
+ ch_convert_holding_to_tribal_title:0 "Convertir le territoire en Installation tribale"
+ ch_convert_holding_to_tribal_tt:0 "Convertit le territoire principal d'une baronnie." 
+ ch_convert_holding_to_tribal_desc:0 "#F En une époque de loyautés changeantes et de guerres locales, renforcer nos fondations avec des installations traditionnelles et robustes pourrait bien être le choix le plus prudent.#!"
+ ch_convert_holding_to_tribal_decision_confirm:0 "Convertir le territoire en tribal"
+ ch_convert_holding_to_tribal_decision_effect_message:0 "Le territoire a été converti en Installation tribale."
+ has_ch_eligble_barony_to_tribal_in_county:1 "Vous avez une [barony|E] avec un [holding|E] pouvant être converti en [tribal_holding|E]\n$EFFECT_LIST_BULLET$Seuls les territoires des [counties|E] dont vous êtes personnellement le [holder|E] sont éligibles\n$EFFECT_LIST_BULLET$Les territoires avec des constructions en cours ne sont #bold pas#! éligibles\n$EFFECT_LIST_BULLET$Malgré ce que peut vous dire la fenêtre Sélectionner un territoire, vous #bold pouvez#! bel et bien sélectionner une [county_capital|E]"
+
+# ---
+
+### CONVERT TO TEMPLE CITADEL
+ ch_convert_holding_to_temple_citadel_decision:0 "Convertir le territoire en Citadelle-temple"
+ ch_convert_holding_to_temple_citadel_tooltip:0 "Le ou les territoires existants seront remplacés par un territoire-citadelle [temple|E]"
+ ch_convert_holding_to_temple_citadel_title:0 "Convertir le territoire en Citadelle-temple"
+ ch_convert_holding_to_temple_citadel_tt:0 "Convertit le territoire principal d'une baronnie." 
+ ch_convert_holding_to_temple_citadel_desc:0 "#F Une grande entreprise spirituelle est nécessaire pour affermir la foi dans cette région. Nous devons consacrer cette terre au divin, en bâtissant un lieu à la fois sacré et imprenable.#!"
+ ch_convert_holding_to_temple_citadel_decision_confirm:0 "Convertir le territoire en Citadelle-temple"
+ ch_convert_holding_to_temple_citadel_decision_effect_message:0 "Le territoire a été converti en Citadelle-temple."
+ has_ch_eligble_barony_to_temple_citadel_in_county:1 "Vous avez une [barony|E] avec un [holding|E] pouvant être converti en Citadelle [temple|E]\n$EFFECT_LIST_BULLET$Seuls les territoires des [counties|E] dont vous êtes personnellement le [holder|E] sont éligibles\n$EFFECT_LIST_BULLET$Les territoires avec des constructions en cours ne sont #bold pas#! éligibles\n$EFFECT_LIST_BULLET$Malgré ce que peut vous dire la fenêtre Sélectionner un territoire, vous #bold pouvez#! bel et bien sélectionner une [county_capital|E]"
+ 
+ ### --- X Decisions ---
+ X1_decision_title:0 "Embrasser la voie valeureuse"
+ X1_decision_desc:0 "La voix de l'honneur et de la chevalerie m'appelle. Par ce choix, mon nom sera chanté comme chevaleresque et véritable."
+ X1_decision_confirm:0 "Que ma valeur soit ainsi prouvée."
+
+ X_build_title:0 "Entreprendre de grands travaux"
+ X_build_desc:0 "Les champs sont en friche et le peuple réclame pain et abri. Par de tels labeurs de pierre et de bois, mon domaine sera renforcé."
+ X_build_confirm:0 "Convoquez les maçons et les intendants."
+
+ X_city_title:0 "Fonder un bourg"
+ X_city_desc:0 "Là où s'étendent la nature sauvage et les hameaux, j'érigerai un bourg de commerce et d'artisanat. Les marchands afflueront et les guildes prospéreront sous ma bannière."
+ X_city_confirm:0 "Que le bourg soit fondé."
+
+ X_temple_title:0 "Élever une maison sainte"
+ X_temple_desc:0 "Les fidèles aspirent à un lieu de culte où la cloche et la prière s'élèveront vers le ciel. Par mon ordre, un temple s'élèvera."
+ X_temple_confirm:0 "Consacrez le sol."
+
+ X_castle_title:0 "Fortifier d'un château"
+ X_castle_desc:0 "Rien ne garantit le règne d'un seigneur plus vite que des murs de pierre. Un donjon s'élèvera, bastion de puissance et siège de ma maison."
+ X_castle_confirm:0 "Élevez la forteresse."
+
+ X_unify_title:0 "Unir le domaine dans la foi et la coutume"
+ X_unify_desc:0 "Mes vassaux diffèrent par la langue et la croyance, déchirés par la coutume et la prière. Pourtant, sous une seule bannière, le sang et l'esprit seront réunis."
+ X_unify_confirm:0 "Ramenez le domaine à une seule foi et coutume."

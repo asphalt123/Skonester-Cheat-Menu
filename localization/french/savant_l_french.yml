@@ -1,0 +1,15 @@
+﻿l_french:
+ trait_savant_intrig:0 "Savant (Intrigue)"
+ trait_savant_intrig_desc:0 "Ce personnage fait preuve d'une aptitude exceptionnelle et obsessionnelle dans les arts de la subterfuge, malgré des déficiences importantes dans d'autres domaines sociaux ou intellectuels."
+
+ trait_savant_learn:0 "Savant (Érudition)"
+ trait_savant_learn_desc:0 "Ce personnage fait preuve d'une aptitude exceptionnelle et obsessionnelle dans l'érudition et la théologie, malgré des déficiences importantes dans d'autres domaines sociaux ou intellectuels."
+
+ trait_savant_mat:0 "Savant (Martial)"
+ trait_savant_mat_desc:0 "Ce personnage fait preuve d'une aptitude exceptionnelle et obsessionnelle dans la stratégie et le combat, malgré des déficiences importantes dans d'autres domaines sociaux ou intellectuels."
+
+ trait_savant_stew:0 "Savant (Intendance)"
+ trait_savant_stew_desc:0 "Ce personnage fait preuve d'une aptitude exceptionnelle et obsessionnelle dans la gestion et les finances, malgré des déficiences importantes dans d'autres domaines sociaux ou intellectuels."
+
+ trait_savant_diplo:0 "Savant (Diplomatie)"
+ trait_savant_diplo_desc:0 "Ce personnage fait preuve d'une aptitude exceptionnelle et obsessionnelle dans les langues et le protocole, malgré des déficiences importantes dans d'autres domaines sociaux ou intellectuels."

@@ -1,0 +1,9 @@
+﻿l_french:
+ dp_debug_start_era_of_crusades_interaction:0 "Démarrer : ère des croisades"
+ dp_debug_launch_natural_crusade_interaction:0 "Lancer une croisade naturelle (débogage)"
+ dp_debug_start_era_of_jihads_interaction:0 "Démarrer : ère des djihads"
+ dp_debug_start_great_holy_war_interaction:0 "Démarrer une grande guerre sainte (rediriger la cible de guerre)"
+ dp_debug_start_era_of_crusades_interaction_desc:0 "Commence l'ère des croisades à des fins de test."
+ dp_debug_launch_natural_crusade_interaction_desc:0 "Déclencheur de débogage pour lancer une croisade naturelle."
+ dp_debug_start_era_of_jihads_interaction_desc:0 "Commence l'ère des djihads à des fins de test."
+ dp_debug_start_great_holy_war_interaction_desc:0 "Déclencheur de débogage pour démarrer une grande guerre sainte sur n'importe quel destinataire éligible."

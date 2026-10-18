@@ -1,0 +1,22 @@
+﻿l_french:
+  trait_nnn_challenger:0 "Beaucoup d'enfants, beaucoup de bénédictions"
+  trait_nnn_challenger_desc:0 "Barbara l'Ointe enseigne que la fortune découle d'une nombreuse descendance, chacune étant une bénédiction vivante."
+  trait_nnn_challenger_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] suit la sagesse de Barbara l'Ointe et puise force et prospérité dans ses nombreux enfants."
+
+  trait_build_speed_cheat:0 "Réincarnation de Villard de Honnecourt"
+  trait_build_speed_cheat_desc:0 "Seule Barbara l'Ointe pouvait bénir un mortel avec la rapidité et la vision de Villard de Honnecourt."
+  trait_build_speed_cheat_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] érige châteaux et cathédrales comme guidé par la main de Villard et béni par Barbara l'Ointe."
+
+  trait_stress_gain_remove:0 "Béni et insouciant"
+  trait_stress_gain_remove_desc:0 "Protégé par Barbara l'Ointe, ce personnage avance sans peur ni souci."
+  trait_stress_gain_remove_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] repose dans la grâce de Barbara l'Ointe, à jamais libéré des fardeaux terrestres."
+
+  trait_tyranny_gain_remove:0 "Équipe de grands juristes"
+  trait_tyranny_gain_remove_desc:0 "Barbara l'Ointe protège ce personnage par des défenseurs invisibles, le défendant contre toutes les accusations."
+  trait_tyranny_gain_remove_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est au-dessus de tout reproche, car Barbara l'Ointe prête une autorité divine à chacune de ses actions."
+
+  trait_100_stat_man:0 "Omnipotent"
+  trait_100_stat_man_desc:0 "Une légende exaltée par Barbara l'Ointe, un génie oint par la grâce divine. Nul ne peut vaincre cette âme prédestinée."
+  trait_100_stat_man_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] marche comme l'élu de Barbara l'Ointe, une légende parmi les légendes et porteur d'une puissance irrésistible."
+
+  immortal:0 "Immortel"

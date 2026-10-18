@@ -1,0 +1,120 @@
+﻿l_french:
+
+ skonester_treasure_maker.tier_off: "Désactivé"
+
+ skonester_treasure_maker.tier_1: "Palier 1"
+
+ skonester_treasure_maker.tier_2: "Palier 2"
+
+ skonester_treasure_maker.tier_3: "Palier 3 (maximum)"
+
+
+
+
+ skonester_treasure_maker.0001.t: "Atelier d'artefacts"
+
+ skonester_treasure_maker.0001.desc: "Ajustez les paliers de 25 attributs et de puissants ensembles de modificateurs. Choisissez la forme et la qualité de l'artefact, puis fabriquez votre objet. Lorsque « Octroyer à la cible » est activé, l'artefact sera remis au personnage sur lequel vous avez cliqué droit.\nCK3 ne prend pas en charge les curseurs, ce menu utilise donc une navigation par événements. Les noms et descriptions d'artefacts reposent sur des entrées de localisation fixes."
+
+ skonester_treasure_maker.0001.owner_self: "Destinataire : soi-même"
+
+ skonester_treasure_maker.0001.owner_recipient: "Destinataire : cible sélectionnée"
+
+ skonester_treasure_maker.0001.page_stats_1: "Tous les attributs · page 1 (1–5)"
+
+ skonester_treasure_maker.0001.page_stats_2: "Tous les attributs · page 2 (6–10)"
+
+ skonester_treasure_maker.0001.page_stats_3: "Tous les attributs · page 3 (11–15)"
+
+ skonester_treasure_maker.0001.page_stats_4: "Tous les attributs · page 4 (16–20)"
+
+ skonester_treasure_maker.0001.page_stats_5: "Tous les attributs · page 5 (21–25)"
+
+ skonester_treasure_maker.0001.god_perks: "Ensembles de modificateurs puissants"
+
+ skonester_treasure_maker.0001.kind_menu: "Type d'artefact (épée / armure / regalia / tome / bibelot)"
+
+ skonester_treasure_maker.0001.quality_menu: "Niveau de qualité"
+
+ skonester_treasure_maker.0001.randomize: "Randomiser tous les réglages"
+
+ skonester_treasure_maker.0001.reset: "Rétablir les valeurs par défaut"
+
+ skonester_treasure_maker.0001.spawn: "Fabriquer l'artefact"
+
+
+
+
+ skonester_treasure_maker.2000.t: "Ensembles de modificateurs puissants"
+
+ skonester_treasure_maker.2000.desc: "Cliquez pour activer ou désactiver chaque ensemble. Ce sont des effets puissants mais légitimes ; ils n'accordent ni véritable immortalité ni assassinats instantanés."
+
+ skonester_treasure_maker.2000.toggle_longlife: "Activer : longévité et santé"
+
+ skonester_treasure_maker.2000.toggle_youth: "Activer : jeunesse et résistance au stress"
+
+ skonester_treasure_maker.2000.toggle_army: "Activer : levées et résistance de l'armée"
+
+ skonester_treasure_maker.2000.toggle_scheme_kill: "Activer : offensive de manigances hostiles"
+
+ skonester_treasure_maker.2000.toggle_scheme_immune: "Activer : défense contre les manigances hostiles"
+
+ skonester_treasure_maker.2000.toggle_dynasty_children: "Activer : fécondité et croissance dynastique"
+
+ skonester_treasure_maker.2000.toggle_tax: "Activer : revenus et bonus fiscaux"
+
+ skonester_treasure_maker.2000.toggle_vassal: "Activer : opinion des vassaux"
+
+ skonester_treasure_maker.2000.toggle_faith_culture: "Activer : opinion de foi et de culture"
+
+ skonester_treasure_maker.2000.toggle_dynasty_piety: "Activer : effroi et piété"
+
+ skonester_treasure_maker.2000.toggle_knights: "Activer : bonus de chevaliers et de renforts"
+
+
+
+ skonester_treasure_maker.3000.t: "Type d'artefact"
+
+ skonester_treasure_maker.3000.desc: "L'épée est sélectionnée par défaut. Les regalia utilisent le modèle standard de regalia du jeu."
+
+ skonester_treasure_maker.3000.kind_sword: "Épée (par défaut)"
+
+ skonester_treasure_maker.3000.kind_armor: "Armure de plaques"
+
+ skonester_treasure_maker.3000.kind_regalia: "Regalia"
+
+ skonester_treasure_maker.3000.kind_book: "Tome"
+
+ skonester_treasure_maker.3000.kind_trinket: "Bibelot de cour"
+
+
+
+ skonester_treasure_maker.3001.t: "Niveau de qualité"
+
+ skonester_treasure_maker.3001.desc: "Valeur de qualité par défaut : 85/85. Faible : 20/20, moyenne : 50/50, élevée : 95/95."
+
+ skonester_treasure_maker.3001.q_low: "Faible (20)"
+
+ skonester_treasure_maker.3001.q_mid: "Moyenne (50)"
+
+ skonester_treasure_maker.3001.q_high: "Élevée (95)"
+
+ skonester_treasure_maker.3001.q_clear: "Revenir à la valeur par défaut (85)"
+
+
+
+ skonester_treasure_maker.3999.t: "Création terminée"
+
+ skonester_treasure_maker.3999.desc: "Votre artefact a été fabriqué selon vos choix. La propriété suit la règle de destinataire sélectionnée. Tous les réglages de l'atelier ont été réinitialisés, prêts pour une nouvelle création."
+
+
+
+ skonester_treasure_maker_workshop: "Atelier d'artefacts"
+
+ skonester_treasure_maker_workshop_desc: "Ouvrez l'atelier d'artefacts. Ajustez les paliers de 25 attributs, activez de puissants ensembles de modificateurs, choisissez le type et la qualité, puis fabriquez des artefacts de style Royal Court."
+
+
+
+ skonester_tm_artifact_name: "Forge merveilleuse"
+
+ skonester_tm_artifact_desc: "Forgé au sein de l'atelier d'artefacts. Ses bénédictions poussent la puissance mortelle à des hauteurs extraordinaires."
+

@@ -1,0 +1,11 @@
+﻿l_french:
+# \regiment_types
+ op_troops:1 "Garde de maison d'élite"
+ open_optroop_menu:0 "Ouvrir le menu de la garde de maison"
+ open_optroop_menu_desc:0 "[recipient.GetShortUINameNoTooltip|U] recevra les options de la garde de maison"
+ close_optroop_menu:0 "Fermer le menu de la garde de maison"
+ close_optroop_menu_desc:0 "[recipient.GetShortUINameNoTooltip|U] fermera les options de la garde de maison"
+ inheritable_optroop_interaction:0 "Invoquer 5000 soldats d'élite de la garde de maison"
+ inheritable_optroop_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] recevra 5000 soldats de la garde de maison qui seront transmis à ses héritiers"
+ non_inheritable_optroop_interaction:0 "Invoquer 2000 cavaliers d'élite de la maison"
+ non_inheritable_optroop_interaction_desc:0 "[recipient.GetShortUINameNoTooltip|U] recevra 2000 cavaliers de la maison qui seront transmis à ses héritiers"

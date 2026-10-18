@@ -1,0 +1,17 @@
+﻿l_french:
+ #Skonester Edition 
+ trait_immortality:0 "Immortel"
+ trait_immortality_desc:0 "Ce personnage a goûté au Don sacré de l'immortalité. Son visage restera à jamais jeune, et il est à l'épreuve de l'étreinte de la mort naturelle."
+ trait_immortality_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a été béni par le Don sacré de l'immortalité. [ROOT.GetCharacter.GetSheHe|U] ne vieillira jamais au-delà de vingt-cinq ans, ni ne cédera à la mort naturelle."
+
+ trait_super:0 "Parangon"
+ trait_super_desc:0 "Ce personnage est un parangon parmi les mortels, doté d'attributs, d'une vigueur, d'un charme et de compétences inégalés qui placent [ROOT.GetCharacter.GetHerHim] au-dessus de tous les autres."
+ trait_super_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a été exalté comme un parangon, doté d'une force, d'un esprit et d'une renommée sans limites."
+
+ trait_super_governor:0 "Intendant des merveilles"
+ trait_super_governor_desc:0 "Ce personnage gouverne avec une sagesse quasi divine. Ses terres prospèrent, les villes s'épanouissent et l'ordre règne en maître, comme touché par la main du ciel."
+ trait_super_governor_character_desc:0 "Sous le règne de [ROOT.GetCharacter.GetFirstNameNoTooltip], le domaine prospère, les champs fleurissent, et même le plus humble paysan bénit le nom de son intendant."
+
+ trait_super_general:0 "Seigneur de guerre oint"
+ trait_super_general_desc:0 "Ce personnage mène les armées comme guidé par la main du destin lui-même. Ses troupes combattent avec une vaillance inébranlable et remportent victoire sur victoire."
+ trait_super_general_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] commande avec un génie inégalé, craint des ennemis et vénéré des soldats, menant chaque troupe au triomphe."

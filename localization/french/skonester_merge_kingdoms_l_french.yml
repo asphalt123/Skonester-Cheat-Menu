@@ -1,0 +1,20 @@
+﻿l_french:
+# interactions
+mt_merge_titles_interaction:0 "Fusionner les titres"
+mt_clear_selection_interaction:0 "Effacer la sélection de titres"
+
+# interaction picks
+MERGE_KINGDOMS_MERGE_LOC:0 "Fusionner / Sélectionner"
+MERGE_KINGDOMS_BACK_LOC:0 "Effacer la sélection"
+
+# custom tooltips
+mt_req_no_county_and_kingdom:0 "Les comtés ne peuvent pas être fusionnés dans des royaumes"
+mt_req_no_county_and_empire:0 "Les comtés ne peuvent pas être fusionnés dans des empires"
+mt_req_no_duchy_and_empire:0 "Les duchés ne peuvent pas être fusionnés dans des empires"
+mt_req_not_the_same:0 "Le titre est identique à celui sélectionné"
+mt_req_no_higher_marked_title:0 "Le titre sélectionné ne peut pas être d'un rang supérieur à celui-ci"
+mt_req_no_two_counties:0 "Vous ne pouvez pas fusionner deux comtés"
+mt_req_already_dejure_liege:0 "Ce titre est déjà le suzerain de jure de celui sélectionné"
+
+mt_select_title:0 "[target.GetName] sera sélectionné pour la fusion"
+mt_clear_selection:0 "La sélection de titre sera effacée"

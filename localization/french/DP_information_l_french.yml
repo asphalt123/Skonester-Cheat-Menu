@@ -1,0 +1,15 @@
+﻿l_french:
+  daddy_pika_information:0 "Skonester Cheat Menu Gold - By God Alone"
+  information_desc:0 "Ceci est la version de test GitHub de Skonester Cheat Menu Gold - By God Alone. Certaines fonctionnalités peuvent être inachevées ou instables. Veuillez signaler tous les bugs et erreurs de script sur GitHub en incluant votre error.log de CK3, l'ordre de chargement des mods et les étapes de reproduction."
+  information_TT:0 "Cliquez pour afficher des informations sur la version de test GitHub By God Alone."
+  
+  dp_information.changelog.t:0 "Skonester Cheat Menu Gold - By God Alone"
+  dp_information.changelog.d:0 "Version de test GitHub By God Alone pour CK3 1.20 Crozier. Mise à jour pour le nouveau système de rites et de dogmes, les nouveaux formats de lois et d'élections, et le menu d'interactions By God Alone. Veuillez signaler sur GitHub les menus défectueux, les localisations manquantes, les erreurs d'événements, les plantages et les comportements inattendus."
+  dp_information.useful_tips.t:0 "Conseils utiles"
+  dp_information.useful_tips.d:0 "Menu des fonctionnalités\n- Cliquez une fois pour ajouter, cliquez à nouveau pour retirer.\n- Si une fonctionnalité n'apparaît pas, cela ne signifie pas que le mod est cassé ; cela peut indiquer un remplacement codé en dur par Paradox ou qu'AGOT, etc. a écrasé un facteur du jeu de base. C'est pourquoi certaines décisions ne fonctionnent pas.\n- En raison de facteurs liés aux DLC, certaines interactions peuvent ne pas apparaître sur certains personnages.\n- Testez ce mod avec uniquement le jeu de base et les DLC. Puis avec par exemple un personnage de 1066 comme la duchesse Mathilde, pour voir si ce mod est à l'origine de vos problèmes. Certains mods plus anciens qui n'ont pas été mis à jour peuvent être la véritable cause."
+  dp_information.locations.t:0 "Version de test GitHub — Rapports de bugs"
+  dp_information.locations.d:0 "Signalez les bugs et les erreurs sur GitHub. Indiquez ce sur quoi vous avez cliqué, ce qui s'est passé, ce que vous attendiez, votre ordre de chargement des mods, et les lignes pertinentes de Documents/Paradox Interactive/Crusader Kings III/logs/error.log."
+  
+  use_new_system:0 "Nouveau système"
+  use_new_system_desc:0 "L'ancien système a été remplacé par le nouveau. Souhaitez-vous l'essayer ?"
+  use_new_system_tooltip:0 "Cliquer ici déclenchera un événement."

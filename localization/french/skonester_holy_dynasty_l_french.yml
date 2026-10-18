@@ -1,0 +1,25 @@
+﻿l_french:
+ pope_select_flag_desc:0 "“Vous êtes le nouveau pape !”"
+ pope_select_interaction:0 "Nommer un nouveau pape"
+ pope_select_interaction_desc:0 "“Le pape devrait être issu de ma maison !”"
+
+ grandmaster_select_flag_desc:0 "“Vous êtes le nouveau grand maître !”"
+ grandmaster_select_interaction:0 "Nommer un nouveau grand maître"
+ grandmaster_select_interaction_desc:0 "“Le grand maître devrait être issu de ma maison !”"
+
+ dynasty_grandmaster_0_decision:0 "Nommer un nouveau grand maître"
+ dynasty_grandmaster_0_decision_desc:0 "Notre famille a toujours été loyale envers la foi. L'Ordre a désormais besoin d'un nouveau chef. Que le feu sacré brille sur notre lignée, et que l'épée de la foi soit tirée une fois de plus."
+ dynasty_grandmaster_0_decision_message:0 "Vous pouvez utiliser les interactions de personnage (dans le menu Diplomatie) pour faire de votre descendant le grand maître de l'Ordre."
+ dynasty_grandmaster_0_decision_confirm:0 "Nommer le nouveau grand maître"
+
+ dynasty_pope_0_decision:0 "Nommer un nouveau pape"
+ dynasty_pope_0_decision_desc:0 "Notre lignée est sous la garde divine. Seul un membre de mon sang sur le Saint-Siège peut rétablir l'ordre dans l'Église."
+ dynasty_pope_0_decision_message:0 "Vous pouvez utiliser les interactions de personnage (dans le menu Diplomatie) pour faire de votre descendant le pape."
+ dynasty_pope_0_decision_confirm:0 "Nommer le nouveau pape"
+
+ dynasty_pope_modifier:0 "Dynastie papale"
+ dynasty_grandmaster_modifier:0 "Sainte dynastie chevaleresque"
+ decision_group_type_holy_dynasty_decision_group:0 "Décisions de dynastie sacrée"
+
+ dynasty_pope_0_decision_tooltip:0 "Sélectionner"
+ dynasty_grandmaster_0_decision_tooltip:0 "Sélectionner"
